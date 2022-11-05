@@ -8,6 +8,7 @@ Right click & drag: rotate the editor cube<br>
 1/2/3/4: Set the tool to erase / ground / spawn point / goal<br>
 <br>
 WASD: move (in game mode). There is no option to disable jumping at the moment, so if you wish to design a level around that, then just mention that jumping is not allowed.<br>
+S: POUND (self explanatory)
 <br>
 ### Notes
 v0.0 is finished and plays quite well in my opinion. However, you will most likely find bugs. If you do, report them and please, please try and find a consistent setup and adequate description.<br>
