@@ -16,5 +16,5 @@ You may place multiple spawn points, but the player will only spawn at the one c
 The goal will give no indication when you have reached it, it is only a texture for the moment. If a goal is placed on a wall, assume that you must stand on that wall to complete the level. No tiles can be rotated, for now.<br>
 <br>
 ### Example Level Codes
-Goal On The Wall: ```54ab4ab4ab4ab4ab54ab3adb3adb3adb4ab20a5b12ac7a5b4ab4ab4ab4a6b/225a/225a/225a/225a/225a```<br>
-Infinite Staircase: ```140a5b25a5b5a5b40a/35a5b35a5b145a/3ab4ab4ab4ab4ab77ab4ab4ab4ab4ab57ab4ab4ab4ab4ab25a/195a5b20a5b/54ab4ab4ab4ab4ab150a/152ab4ab4ab4ab4ab52a```<br>
+Goal On The Wall:<br> ```54ab4ab4ab4ab4ab54ab3adb3adb3adb4ab20a5b12ac7a5b4ab4ab4ab4a6b/225a/225a/225a/225a/225a```<br>
+Infinite Staircase:<br> ```140a5b25a5b5a5b40a/35a5b35a5b145a/3ab4ab4ab4ab4ab77ab4ab4ab4ab4ab57ab4ab4ab4ab4ab25a/195a5b20a5b/54ab4ab4ab4ab4ab150a/152ab4ab4ab4ab4ab52a```<br>
