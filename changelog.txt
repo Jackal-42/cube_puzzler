@@ -1,0 +1,7 @@
+v0.1
+ - Player can now fit through a 1 tile gap
+ - Tiles may now be rotated in the editor by pressing R
+ - Tidied up the GUI
+ - Fixed a bug where the GUI would unload when entering play mode and then going back into edit mode
+ - Pressing R in play mode now restarts the level
+ - Added buttons and gates which have the potential for 32 unique values but at the moment have one
