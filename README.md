@@ -3,7 +3,7 @@
 (p)lay/pause (switch from editor to game mode and back)<br>
 (r)otate (In editor, rotate the selected tile 90 degrees)<br>
 (r)estart (In play mode, reload the level)<br>
-Click on the "Level Code" button to view/copy the current level code or to paste a new one in. DO NOT hit "cancel" or the application will freeze. Please ignore the "Level Code" text area, it is left over from testing. Also, the selected tile text may disappear after loading into a level, so sorry about that.
+Click on the "Level Code" button to view/copy the current level code or to paste a new one in. DO NOT hit "cancel" or the application will freeze.
 <br>
 Left click & drag: draw on the editor cube with the selected tile<br>
 Right click & drag: rotate the editor cube<br>
