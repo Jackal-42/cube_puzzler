@@ -5,3 +5,6 @@ v0.1
  - Fixed a bug where the GUI would unload when entering play mode and then going back into edit mode
  - Pressing R in play mode now restarts the level
  - Added buttons and gates which have the potential for 32 unique values but at the moment have one
+
+v0.1 fix 1
+ - Tile sprites in the editor are now rotated with respect to the face they are on, rather than globally
