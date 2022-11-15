@@ -8,3 +8,10 @@ v0.1
 
 v0.1 fix 1
  - Tile sprites in the editor are now rotated with respect to the face they are on, rather than globally
+
+v0.2
+ - Added a new default graphics mode which will eventually support rotation animations
+ - No longer render the faces which face away from the camera (performance)
+ - In lite rendering mode, removed some lighting and shaders (performance)
+ - Added "hollow" tile which looks like ground but has no collider (used to fill in large chunks of ground in order to save processing power)
+ - Added freecam (left click & drag)
