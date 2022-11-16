@@ -1,15 +1,26 @@
 ### Controls
 
-(p)lay/pause (switch from editor to game mode and back)<br>
-(l)ite rendering mode (alternate play mode for lower-end devices; use instead of (p)lay in the editor)<br>
-(r)otate (In editor, rotate the selected tile 90 degrees)<br>
-(r)estart (In play mode, reload the level)<br>
-Click on the "Level Code" button to view/copy the current level code or to paste a new one in. DO NOT hit "cancel" or the application will freeze.
+**(p)lay/pause** (switch from editor to game mode and back)<br>
+**(l)ite rendering** mode (alternate play mode for lower-end devices; use instead of (p)lay in the editor)<br>
+**(r)otate** (In editor, rotate the selected tile 90 degrees)<br>
+**(r)estart** (In play mode, reload the level)<br>
+Click on the `Level Code` button to view/copy the current level code or to paste a new one in. DO NOT hit "cancel" or the application will freeze.
 <br>
 Left click & drag: draw on the editor cube with the selected tile<br>
 Left click & drag (in game mode): freecam<br>
 Right click & drag: rotate the editor cube<br>
-1/2/3/4/5/6/7: Set the tool to erase / ground / spawn point / goal / button / gate / hollow<br>
+Number keys: Set the tool to the corresponding number<br>
+| Number | Tool       |
+|--------|------------|
+| 1      | Erase      |
+| 2      | Ground     |
+| 3      | Spawnpoint |
+| 4      | Goal       |
+| 5      | Button     |
+| 6      | Gate       |
+| 7      | Hollow     |
+
+A GUI solution with hotkeys has been suggested in https://github.com/Jackal-42/cube_puzzler/issues/6 <br>
 <br>
 WASD: move (in game mode). There is no option to disable jumping at the moment, so if you wish to design a level around that, then just mention that jumping is not allowed.<br>
 S: POUND (self explanatory)
