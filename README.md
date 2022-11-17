@@ -1,3 +1,5 @@
+Play the game [here](https://jackal-42.github.io/cube_puzzler/)
+
 ### Controls
 
 **(p)lay/pause** (switch from editor to game mode and back)<br>
