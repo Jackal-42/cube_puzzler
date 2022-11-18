@@ -15,3 +15,9 @@ v0.2
  - In lite rendering mode, removed some lighting and shaders (performance)
  - Added "hollow" tile which looks like ground but has no collider (used to fill in large chunks of ground in order to save processing power)
  - Added freecam (left click & drag)
+ 
+v0.2 fix 1
+ - Removed the new rendering mode due to many issues
+ - Tile rotation in the editor should work now (hopefully)
+ - Made the background colors in the 2D tiles and the rendered level in the 3D tiles use sprites instead of planes to save on processing power
+ - Removed the skyboxes in favor of solid colors
