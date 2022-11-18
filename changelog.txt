@@ -21,3 +21,6 @@ v0.2 fix 1
  - Tile rotation in the editor should work now (hopefully)
  - Made the background colors in the 2D tiles and the rendered level in the 3D tiles use sprites instead of planes to save on processing power
  - Removed the skyboxes in favor of solid colors
+ 
+v0.2 fix 2
+ - The level no longer corrupts when a non-air tile is placed in the top-left corner
