@@ -24,3 +24,7 @@ v0.2 fix 1
  
 v0.2 fix 2
  - The level no longer corrupts when a non-air tile is placed in the top-left corner
+
+v0.2 fix 3
+ - Player movement speed is no longer framerate dependent
+ - Stopped cameras from rendering unseen faces of the cube on lite rendering mode as well
