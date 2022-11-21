@@ -36,4 +36,4 @@ The goal will give no indication when you have reached it, it is only a texture 
 ### Example Level Codes
 Goal On The Wall:<br> ```54ab4ab4ab4ab4ab54ab3adb3adb3adb4ab20a5b12ac7a5b4ab4ab4ab4a6b/225a/225a/225a/225a/225a```<br>
 Infinite Staircase:<br> ```140a5b25a5b5a5b40a/35a5b35a5b145a/3ab4ab4ab4ab4ab77ab4ab4ab4ab4ab57ab4ab4ab4ab4ab25a/195a5b20a5b/54ab4ab4ab4ab4ab150a/152ab4ab4ab4ab4ab52a```<br>
-Freefalling <br> `90ae4a!g!4a17ac2a!2ag!2a17a!2aa!5a75a/225a/225a/225a/225a/106a!3afa!2afda!3af15af89a` <br>
+Freefalling <br> `10a#2a78ae4a!g!4a17ac2a!2ag!2a17a!2aa!5a75a/225a/225a/225a/225a/106a!3afa!2af#da!3af4a!a10af4a#e84a` <br>
