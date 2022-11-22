@@ -33,7 +33,4 @@ Sometimes, the cube face will "corrupt". This is very rare. You will know if it 
 You may place multiple spawn points, but the player will only spawn at the one closest to the bottom right. I didn't see the point in wasting development time on limiting placements on certain tiles.<br>
 The goal will give no indication when you have reached it, it is only a texture for the moment. If a goal is placed on a wall, assume that you must stand on that wall to complete the level.<br>
 <br>
-### Example Level Codes
-Goal On The Wall:<br> ```54ab4ab4ab4ab4ab54ab3adb3adb3adb4ab20a5b12ac7a5b4ab4ab4ab4a6b/225a/225a/225a/225a/225a```<br>
-Infinite Staircase:<br> ```140a5b25a5b5a5b40a/35a5b35a5b145a/3ab4ab4ab4ab4ab77ab4ab4ab4ab4ab57ab4ab4ab4ab4ab25a/195a5b20a5b/54ab4ab4ab4ab4ab150a/152ab4ab4ab4ab4ab52a```<br>
-Freefalling <br> `10a#2a78ae4a!g!4a17ac2a!2ag!2a17a!2aa!5a75a/225a/225a/225a/225a/106a!3afa!2af#da!3af4a!a10af4a#e84a` <br>
+The team-member created level codes are now found at https://github.com/Jackal-42/cube_puzzler/blob/main/levels.md
