@@ -1,0 +1,19 @@
+<h3>Levels</h3>
+Prank Flag<br>
+<code>91ad3a5g12ac4ab2agbgbg9af4af3aefg4b75a/92ad2a5b125a/225a/225a/225a/225a</code>
+<br><br>
+Zero Gravity<br>
+<code>90ae4a!g!4a17ac2a!2ag!2a17a!2aa!5a75a/225a/225a/225a/225a/106a!3afa!2afda!3af15af89a</code>
+<br><br>
+Button Trap<br>
+<code>114abcaeaf5b10a5befada5b75a/225a/225a/225a/225a/113a2b3ab4a2b100a</code>
+<br><br>
+Hidden Button<br>
+<code>75a6b4ab4ab4a10b12ac2a10b4ab4ab4a6b75a/225a/103a@a4a@a4a@a4a@a4a@aa5b2a@eab4ab4a6b27a@2a3a@a4a@a37a/225a/225a/100a5bf3a2f3a2fadaf5b100a</code>
+<br><br>
+Goal On The Wall<br>
+<code>54ab4ab4ab4ab4ab54ab3adb3adb3adb4ab20a5b12ac7a5b4ab4ab4ab4a6b/225a/225a/225a/225a/225a</code>
+<br><br>
+Infinite Staircase<br>
+<code>140a5b25a5b5a5b40a/35a5b35a5b145a/3ab4ab4ab4ab4ab77ab4ab4ab4ab4ab57ab4ab4ab4ab4ab25a/192ad2a5b20a5b/54ab4ab4ab4ab4ab150a/152ab4ab4ab4ab4ab52a</code>
+<br><br>
