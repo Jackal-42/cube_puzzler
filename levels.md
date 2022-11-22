@@ -17,3 +17,6 @@ Goal On The Wall<br>
 Infinite Staircase<br>
 <code>140a5b25a5b5a5b40a/35a5b35a5b145a/3ab4ab4ab4ab4ab77ab4ab4ab4ab4ab57ab4ab4ab4ab4ab25a/192ad2a5b20a5b/54ab4ab4ab4ab4ab150a/152ab4ab4ab4ab4ab52a</code>
 <br><br>
+Lidded Jar<br>
+<code>42ac36ab4ab4ab4ab4a6b4ab3a!db4a6b100a/225a/125ab4ab4ab4ab4ab79a/225a/79ab4ab4ab4ab4ab125a/2a@2a3a@a71ab4ab4ab4ab4ab125a</code>
+<br><br>
