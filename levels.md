@@ -1,4 +1,9 @@
-<h3>Levels</h3>
+# Levels
+
+A list of levels put together by the team
+
+## Fun levels
+
 Prank Flag<br>
 <code>91ad3a5g12ac4ab2agbgbg9af4af3aefg4b75a/92ad2a5b125a/225a/225a/225a/225a</code>
 <br><br>
@@ -22,4 +27,10 @@ Lidded Jar<br>
 <br><br>
 Cornered! (NO POUND)<br>
 <code>8a#bb3af4af4a#bb2ab#e4bab2ab@abadb2a3b37a5b12af4afac5b20a5b85a/22a2b3ab4ab2a3b4ab4ab37a5b12ab4ab2a3b112a/225a/27ab4ab#e3ab4ab4ab54ab4ab4a3b20a5b85a/85a5b20a5b2ab4ab12a5b13a2f6a2f14ab4ab4ab4ab4a3b3ab4ab16a/225a</code>
+<br><br>
+
+## Mechanic Showcase Levels
+
+Use gravity to go sideways<br>
+`94ad59ag37ac4ab27a/225a/225a/225a/225a/225a`
 <br><br>
