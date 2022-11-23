@@ -28,3 +28,19 @@ v0.2 fix 2
 v0.2 fix 3
  - Player movement speed is no longer framerate dependent
  - Stopped cameras from rendering unseen faces of the cube on lite rendering mode as well
+ 
+v0.3
+ - Going into freecam now renders every face correctly
+ - Rotation of the freecam is now dependent on the rotation of the cube and player
+ - Restarting the level now boots into the correct rendering mode and no longer rotates tiles in the editor
+ - Added no pound ground, anti-gate, air flag
+ - Gates are now visible even when inactive
+ - Added notification on win
+ - New editor with buttons rather than hotkeys
+ - Added global rules for jump and pound allowance
+ - Player can no longer pound on gates
+ - Editor now supports undo/redo
+ - Added four custon values for button/gate and made them swappable in the editor
+ - Tiles no longer show the wrong Z rotation when exiting play mode
+ - Tiles in the last block of a level code no longer lose their rotation
+ - Player can no longer jump to reach a button which is five tiles above them
