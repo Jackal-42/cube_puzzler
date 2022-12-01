@@ -28,6 +28,9 @@ Lidded Jar<br>
 Cornered! (NO POUND)<br>
 <code>8a#bb3af4af4a#bb2ab#e4bab2ab@abadb2a3b37a5b12af4afac5b20a5b85a/22a2b3ab4ab2a3b4ab4ab37a5b12ab4ab2a3b112a/225a/27ab4ab#e3ab4ab4ab54ab4ab4a3b20a5b85a/85a5b20a5b2ab4ab12a5b13a2f6a2f14ab4ab4ab4ab4a3b3ab4ab16a/225a</code>
 <br><br>
+Gate Puzzle<br>
+`11|4ab4ab4ab4ab4ab20a#a4ab4ab4ab4ab4ab8ab4ab4ab4ab4ag#a16ac2a6b4ab4ab4ab4ag8ab4ab4ab4ab4ab25ab4ab4ab4ab4ab4a/100ab4ib4ab4ab4ab4a5i@e^@a43ab$2f2ib4ab4ab4ab4a5ih@dh2a%@eh13a/b3a2b3a2b3a2b3a2b3ab25ab4ab4ab4ab4ab4a5i4a%f4a%f4a%f4ab25ag4ab4ab4ab4ab4a4ib$f3a2b3a2b3a2b#a2ab25ab4ab4ab4ab4ab4a/225a/4ab4ab4ab4ab4ab25ab4ab4ab4ab4ab8ab4ab4ab4ab4ag25ab4ab4ab4ab4ag8ab4ab4ab4ab4ab25ab4ab4ab4ab4ab4a/4ab4ab4ab4ab4ab25ab4a$ba@a2a6b3a2b%e%aab4ab4ab4ab4ab4ag20a6b2i$fbh@e2abha%a%!abha%!a!abi2f%fb4ab4ab4ab4ab4ab25ab3a2b3a2b$e$aa2b$i2a2b2i%fb`
+<br><br>
 
 ## Mechanic Showcase Levels
 
