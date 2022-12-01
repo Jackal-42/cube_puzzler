@@ -44,3 +44,14 @@ v0.3
  - Tiles no longer show the wrong Z rotation when exiting play mode
  - Tiles in the last block of a level code no longer lose their rotation
  - Player can no longer jump to reach a button which is five tiles above them
+
+v0.4
+ - Added crates which always fall in the same direction
+ - Faces now store specific gravity and it can be changed by shift-clicking
+ - Added springs which bounce the boxes with varied force
+ - Added grates which allow boxes to pass through and not the player
+ - Added one-way platforms
+ - Added portals which work with both boxes and the player
+ - Brought back keybinds
+ - Tiles now reset rotation when changing the selection
+ - Anti-gates are now initialized to the correct values
