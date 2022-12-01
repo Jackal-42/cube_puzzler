@@ -34,6 +34,10 @@ Gate Puzzle<br>
 
 ## Mechanic Showcase Levels
 
+Blocks/portals
+`10|{4ab4ab4ab4ab4ab25a6b3g2ba!pab4ab4ab4ab4a7b3a2b#d2ab2a%!l7abn%nnb2a%a4am8ac3a5b10ab3a2b3a2ba!qa2b3g6b50a/{b4ab4ab4ab4ab4ab4ab4ab4ab4ab39a5b10ab4ab4ab114a/{225a/{225a/{99ab20a5b20a5b4ab4ab4ab4ab4ab45a5b/{225a`
+<br><br>
+
 Use gravity to go sideways<br>
 `94ad59ag37ac4ab27a/225a/225a/225a/225a/225a`
 <br><br>
