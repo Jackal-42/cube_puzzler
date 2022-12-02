@@ -55,3 +55,7 @@ v0.4
  - Brought back keybinds
  - Tiles now reset rotation when changing the selection
  - Anti-gates are now initialized to the correct values
+
+v0.4 fix 1
+ - The player is no longer affected by box simulation portals
+ - Added an experimental low graphics mode
