@@ -62,4 +62,7 @@ v0.4 fix 1
 
 v0.4 fix 2
  - Placeable portals now correctly link
- - experimental graphical slider
+ - Experimental graphical slider
+
+v0.4 fix 3
+ - Removed the graphical slider
