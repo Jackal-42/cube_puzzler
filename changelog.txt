@@ -59,3 +59,7 @@ v0.4
 v0.4 fix 1
  - The player is no longer affected by box simulation portals
  - Added an experimental low graphics mode
+
+v0.4 fix 2
+ - Placeable portals now correctly link
+ - experimental graphical slider
