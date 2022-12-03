@@ -2,6 +2,12 @@
 
 A list of levels put together by the team
 
+## One-Solution Developer Entries
+
+Jackal42's Puzzle<br>
+<code>10|{g3bgb3a2b2a!d2b3a2b3ab4gb3gba!g2gba3g!be5bg@2b@ab4ab4ab4ab4a2b4ab4ab4ab4ab8a!o15a!l8ab4ab4ab4af!2a2afba#o#aag4b19ac5b17a!oaf5b15a/{g3abgq2abg3a5b6g50a3g!g6g3b!gg3a2g2ap2g17a!a35a2g3b2g22a#a24a!a17a/{225a/{225a/{200ag5b4ab4ab3a2b3ab/{225a</code>
+<br><br>
+
 ## Fun levels
 
 Prank Flag<br>
