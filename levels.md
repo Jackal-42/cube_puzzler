@@ -8,6 +8,10 @@ Jackal42's Puzzle<br>
 <code>10|{g3bgb3a2b2a!d2b3a2b3ab4gb3gba!g2gba3g!be5bg@2b@ab4ab4ab4ab4a2b4ab4ab4ab4ab8a!o15a!l8ab4ab4ab4af!2a2afba#o#aag4b19ac5b17a!oaf5b15a/{g3abgq2abg3a5b6g50a3g!g6g3b!gg3a2g2ap2g17a!a35a2g3b2g22a#a24a!a17a/{225a/{225a/{200ag5b4ab4ab3a2b3ab/{225a</code>
 <br><br>
 
+robtech21's Puzzle<br>
+`10|{b2ab$bb4abah2ah4ah4a4b21a4bg4ab4ab3a@qb2aea2b4ab4ab4ab!a3ab$k2b23ac4a2bg4ab4a$f3a@a$f4a$fbfbg2bmb3ab10a#a2a5b20a5b20a/{77a#a2a4bg3a!dba!a%!l!db2a#a!db50a2b%fbgabab2abab2agbg56a/{225a/{52ab$h3ab2f2ag4ag@p$h2ag54agb$f3ab%e3agb85a/{160a3bg4a2ba$ha$2ag5b3a$!eb3a$!aba$a$ha$fa$h2ag4ab4ab4ab4ab4a/{a3g221a`
+<br><br>
+
 ## Fun levels
 
 Prank Flag<br>
