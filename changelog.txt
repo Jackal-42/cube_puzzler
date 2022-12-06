@@ -71,3 +71,6 @@ v0.4.1
  - Added hold buttons
  - Changed the push button texture
  - Buttons can now be activated by physics objects
+
+v0.4.1 fix 1
+ - Hold buttons no longer fail to trigger when jumped upon
