@@ -16,7 +16,7 @@ robtech21's Puzzle<br>
 
 ## Fun levels
 
-Change Of Perspective< (i really like this one)br>
+Change Of Perspective (i really like this one)<br>
 <code>10|{b12a!bb2abah2abah4ab4ab4ab4ab4ab27ab$dh3a2b9a@o9ab4ab4ab4ab4ab29aeb2a3bacbabaobab2ab5a2b3ng2af4ak2agam27a/{225a/{225a/{50ab3a2b4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab3a2b3a2b3a2b3ab/{150a5b15ab4a4bg4ab4ab4ab4ab25a/{b2ab3aob4ab4aba3bg3ag197a</code>
 <br><br>
 Boxes &amp; Buttons<br>
