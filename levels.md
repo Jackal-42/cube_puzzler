@@ -2,6 +2,8 @@
 
 A list of levels put together by the team
 
+Put newer levels towards the top of the "fun" list, and remember to check back every so often
+
 ## One-Solution Developer Entries
 
 Jackal42's Puzzle<br>
@@ -14,6 +16,9 @@ robtech21's Puzzle<br>
 
 ## Fun levels
 
+Boxes &amp; Buttons<br>
+<code>10|{75a5gba%#qa2b4ab4aba%k7a5b20a5b4ab4ab4a2b$3b2b4ab4ab3acba%#pab$3h2b3af$@e3af2aeafa10bh3abh3abhada6b/{225a/{225a/{225a/{225a/{5g220a</code>
+<br><br>
 Prank Flag<br>
 <code>91ad3a5g12ac4ab2agbgbg9af4af3aefg4b75a/92ad2a5b125a/225a/225a/225a/225a</code>
 <br><br>
