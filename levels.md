@@ -9,7 +9,7 @@ Jackal42's Puzzle<br>
 <br><br>
 
 robtech21's Puzzle<br>
-`10|{b2ab$bb4abah2ah4ah4a4b20a%h4bg4ab4ab3a@qb2aea2b4ab4ab4ab!a3ab$k2b23ac4a2bg4ab%a3a$f3a@a$f%a3a$fbfbg2bmb3ab10a#a2a5b20a5b20a/{22a%@a54a%#b2a2b%kbga%a^f!aba!a%!a!ab^ea%#a!ab50a2b%abgab%ab2ababgab@a@dbab^aab50a/{225a/{52ab$h3ab2f2ag4ag@p$h2ag54agb$f3ab%e3agb85a/{160a3bg4a2ba$ha$2ag5b3a$!eb3a$!aba$a$ha$fa$h2ag4ab4ab4ab4ab4a/{59ag4ab4ab4ag150a`
+`10|{ba$hb$bb4abah2ah4ah4a4b20a%h4bg4ab4ab3a@qb2aea2b4ab4ab4ab!a3ab$k2b23ac4a2bg4ab%a3a$f3a@a$f%a3a$fbfbg2bmb3ab10a#a2a5b20a5b20a/{22a%@a54a%#b2ab^b%k^bga%a^f!aba!a%!a!ab^ea%#a!ab50a2b%abgab%ab2ababgab@a@dbab^aab50a/{225a/{52ab$h3ab2f2ag4ag@p$h2ag54agb$f3ab%e3agb85a/{160a3bg4a2ba$ha$2ag5b3a$!eb3a$!aba$a$ha$fa$h2ag4ab4ab4ab4ab4a/{59ag4ab4ab4ag150a`
 <br><br>
 
 ## Fun levels
