@@ -74,3 +74,7 @@ v0.4.1
 
 v0.4.1 fix 1
  - Hold buttons no longer fail to trigger when jumped upon
+
+v0.4.1 fix 2
+ - Hold buttons now accept all variants
+ - Physics objects no longer slide very slowly down walls
