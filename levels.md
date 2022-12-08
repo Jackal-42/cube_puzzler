@@ -14,6 +14,11 @@ robtech21's Puzzle<br>
 `10|{ba$hb$bb4abah2ah4ah4a4b20a%h4bg4ab4ab3a@qb2aea2b4ab4ab4ab!a3ab$k2b23ac4a2bg4ab%a3a$f3a@a$f%a3a$fbfbg2bmb3ab10a#a2a5b20a5b20a/{22a%@a54a%#b2ab^b%k^bga%a^f!aba!a%!a!ab^ea%#a!ab50a2b%abgab%ab2ababgab@a@dbab^aab50a/{225a/{52ab$h3ab2f2ag4ag@p$h2ag54agb$f3ab%e3agb85a/{160a3bg4a2ba$ha$2ag5b3a$!eb3a$!aba$a$ha$fa$h2ag4ab4ab4ab4ab4a/{59ag4ab4ab4ag150a`
 <br><br>
 
+## Full-featured levels
+Concepts Explorer (Sorta unpolished) by robtech21<br>
+`10|{4ab2a^!2ab2a^aa3b^2bb^f6a$e4ab2a^4h$kf3o$f5ab4a6b4a3b^2f5a^fa^a2aba^a^ha%f2a^aa%f3a%!l%fa%a24ac#o#a12a$a%a3a$@a%a3a@a2a2b^2f2b^#a3ab^k%ahab^f%a2ab%h8bh^#r2ab%a4a%aab2a4b^b%2f^@b@bb3a@h5a%@aah2a%h4bf/{5a4bg4a2b3a2b19a3bg3a$!eb26ab4a5b4ab3a$a$f4ab3ab4ab4aba^f2aba4b26ab$2ff2b3a$bbh2a2b3a2b3ab20a2b28a/{51a2b3a$g4ag$@p$a2aga$#a2a4b150a/{4b!bb2a!a!bb2a!a!bb2a!a!ob3a!o35a^a6ag2b2aba$fb3a!oba$@aa!ob3a!ob3a!ob3a!o5af21ab!j$f2ag2b3ag4ag@p3agab3a!ob3a!ob3a!ob3a!ob3a!ob^4h14a$@af3ag3b#bb^fa$#h#ag^fa$h@qg^fa$hagb^2h2b/{3ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab4ab4abg3a2b15a5b20ag4ab4a/{b%rb2gababg3a!bg3a^!bb3a!a2a#o3a$q#o$@o@2o!a#o@2aa^!bb^!a7a^@e2aba@3ob2a$2ab4ab4abr3b$bb3a^a14aba$bb$b2b^aa^a14af4afb%f^3ab^m3a2b3ab2ababa@5o15a5b@5o15a5b@2o2b4ag3a$pg4aga3bga`
+<br><br>
+
 ## Fun levels
 
 Change Of Perspective (i really like this one)<br>
