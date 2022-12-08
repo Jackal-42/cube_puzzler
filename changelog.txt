@@ -78,3 +78,8 @@ v0.4.1 fix 1
 v0.4.1 fix 2
  - Hold buttons now accept all variants
  - Physics objects no longer slide very slowly down walls
+
+v0.4.1 fix 3
+ - Physics objects no longer slide very slowly down walls (real)
+ - player cannot jump off the backside of one way platforms
+ - Boxes should randomly lose momentum less
