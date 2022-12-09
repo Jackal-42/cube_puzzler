@@ -83,3 +83,9 @@ v0.4.1 fix 3
  - Physics objects no longer slide very slowly down walls (real)
  - player cannot jump off the backside of one way platforms
  - Boxes should randomly lose momentum less
+
+v0.4.1 fix 4
+ - Boxes now exhibit correct pushing mechanics
+
+v0.4.1 fix 5
+ - Platforms no longer stop working after passing over too many faces (and thus, causing small floating-point errors)
