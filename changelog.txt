@@ -95,3 +95,7 @@ v0.4.1 fix 6
 
 v0.4.1 fix 7
  - Portals should have less jitteryness
+
+v0.4.1 fix 8
+ - Boxes should correctly preserve momentum when going through portals
+ - Porals should correctly redefine hosts when pounded
