@@ -17,7 +17,9 @@ robtech21's Puzzle<br>
 ## Full-featured levels
 Concepts Explorer by robtech21, fixes by Jackal-42<br>
 `10|{4ab2a^!2ab2a^aa3b^2bb^f6a$e4ab2a^4h$kf3o$f5ab4a6b4a3b^2f5a^fa^a2aba^a^ha%f2a^aa%f3a%!l%fa%a24ac#o#a12a$a%a3a$@a%a3a@a2a2b^2f2b^#a3ab^k%ahab^f%a2ab%h8bh^#r2ab%a4a%aab2a4b^b%2f^@b@bb%2aa@h5a%@aah2a%a4bf/{5a4bg4a2b3a2b19a3bg3a$!eb26ab4a5b4ab3a$a$f4ab3ab4ab4aba^f2aba3bg26ab$2ff2b3a$bbh2a2b2ao2b3ab20a2b28a/{51a2b3a$g4ag$@p$a2aga$#a2a4b150a/{4b!bb2a!a!bb2a!a!bb2a!a!ob3a!o35a^a6ag2b2aba$fb3a!oba$@aa!ob3a!ob3a!ob3a!o15af4af6ab!j$f2ag2b3ag4ag@p3agab3a!ob3a!ob3a!ob3a!ob3a!o^5h14a$@ab3a4b#bb^fa$#h#ag^fa$h@qg^fa$hagb^2h2b/{3ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab4ab4abg3a2b15a5b20ag4ab4a/{b%rb2gababg3a!bg3a^!bb3a!a2a#o3a$q#o$@o@2o!a#o@2aa^!bb^!a7a^@e2aba@3ob2a$2ab4ab4ab%n3b$bb3a^a11ab4a$bb$b2b^aa^a12a2f5afbe^3ab%f3ab%f3ab%mababg@5o15a5b@5o15a5b@2obg4ag3a$pg4aga3bga`
-
+<br><br>
+Concepts Explorer 2 by robtech21<br>
+`10|[g2bh2ba@2a%@aba!l2a%b2a%aa%bab%a!rh3bh@3a^a%aa%a^a%a$a%aa%a$aa%bo$oo2bhb@bg$@a@a2aba$a2ab$2a2ana$a2a2ba%@b@a%@aba3b%f3ab%f2a%a6b%@b@a^!qa2b3g^b5a%a4a2bc2b^a3ab@a^a2ab^a$a2aba$aa@j5bg2b@a2abg3ab$@g$@pa@qbg!a2abg3f2ba2bgbabg@gbab$!ggbabg2ba2ba@eabg$aa$a2g@p@a$@q$@gg2a$a2g5b/]157a!3a5a5b10a!a9a5b20a5b5a/{3a^#p3a3g15ar2ba^#p3b2g16arb2ag2b89ag2b15a5b2a%#a17ag4ab6ab$#e3ab4ag2b6a%a3a/]51a4gaba%!pagb3ab4ab4a5g%!ba%!p2ab4ab3a$hb4a5g%!p2a%!p4a$h11a2b3ab4a%b4abab2ab14ab4ab2a$hab%#a5a%a4ab%!a4a%a%!a10a$f4a$f4ab4ab4ab4a/[2abab2abab2abab2abab2ababa3b2abab2abab2abab2abababab2abab2abab2abab2abab4abab2abab2abab2abab2abababab2abab2abab2ababa^!abababab2abab2abab2abab2ab^!ab4abab2ab^@ab2abab2abab2abnbabab2abab2abab2ababan3bnbab@aabab@aabab2abab2abnb2a/{2b3ag4ag@p3ag4ag4b12ab3ab%@ebab$3fb4ab4af4af%a%!a2af5b22ab7a$h10ab2ab4ab4ab4aba4b$h!oagb$h!o%@qgb6a%a13a5b$ka$kkbfa2fbma2mb4a6b$h!oagba4b4ab4ab4ab`
 <br><br>
 
 ## Fun levels
