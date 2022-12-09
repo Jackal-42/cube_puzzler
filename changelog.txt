@@ -89,3 +89,6 @@ v0.4.1 fix 4
 
 v0.4.1 fix 5
  - Platforms no longer stop working after passing over too many faces (and thus, causing small floating-point errors)
+
+v0.4.1 fix 6
+ - Portals should now correctly orient the player's velocity
