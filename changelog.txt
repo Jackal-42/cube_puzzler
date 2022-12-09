@@ -92,3 +92,6 @@ v0.4.1 fix 5
 
 v0.4.1 fix 6
  - Portals should now correctly orient the player's velocity
+
+v0.4.1 fix 7
+ - Portals should have less jitteryness
