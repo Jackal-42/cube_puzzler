@@ -21,12 +21,12 @@ Concepts Explorer by robtech21, fixes by Jackal-42<br>
 Concepts Explorer 2 by robtech21<br>
 `10|[g2bh2ba@2a%@aba!a2a%b2a%aa%b2a%a!ah3bh@3a^a%aa%a!l%a$a%aa%a$aara$a2abhb@bg$@a@a2aba$a2ab^h$a2ana$a2a2ba%@a@a%@ab4a%f4a%f2a%aa5b%@bo^oo2ba^!qa^bb3gb%b3bagbc2b^aa^hab@a^a2a^f^a$a2a^fa$aa@a5bg2b@a2abg3ab$@g$@pa@qbg!a2abg3f2ba2bgbabg@gbab$!ggbabg2ba2ba@eabg$aa$a2g@p@a$@q$@gg2a$a2g5b/]75abg3a@db4ab3abg65a!3a5a5b10a!a9a5b20a5b5a/{3a^#p3a3g15a^r2ba^#pbgb2g16a^rb2agbg89ag2b15a5b2a%#a17ag4ab6ab$#e3ab4ag2b6a%a3a/]51a4gaba%!pagb3ab4ab4a5g%!ba%!p2aba$h2ab3a$ab4a5g%!p2a%!p4a$ha$h9a2b3ab4a%b4abab2ab14ab4ab2a$hab%#a5a%a4ab%!a4a%a%!a10a$f4a$f4ab4ab4ab4a/[2ab^hb2abab2abab2abab2abababgb^habgb2abgb2abgb2abgbabab2abab2abab2abab2abab4abab2abab2abab2abab2abababgb2abgb2abgb2abgba^!abgbabab2abab2abab2abab2ab^!ab4abab2ab^@ab2abab2abab2abnbabgb2abgb2abgb2abgban3bnbab@aabab@aabab2abab2abnb2a/{2b3ag4ag@p3ag4ag4b12ab3ab%@ebab$3fb4ab4af4af%a%!a2af5b22ab7a$h10ab2ab4ab4ab4aba4b$h!oagb$h!o%@qgb6a%a13a5b$ka$kkbfa2fbma2mb4a6b$h!oagba4b4ab4ab4ab`
 <br><br>
-
-## Fun levels
-
 Portal Roulette by Jackal42<br>
 `11|}i4ai4ai4ai4ai33ai4ai4ai4ai4a2i4ai2aoai#mc2ai4ai4ai2bi3agi2apgi3agia4i5ai4ai4ai4ai4a7i4ai4ai4ai33ai4ai4ai4ai4ai/]11a@o7a%!r5a%f$faia%f$f3ai4ai4ai12a%@a4a%@a6ai4a2i3ag4ag%q3ag4a2i3ai4ai4ai4ai4ai7a2i4ag3a^@qg4ag3a2i9a$!rao13ai4ai4ai4a%f$f3a%f$faiai24a/{i4ai4ai4ai4ai33ai4ai4ai4ai4a2i4ai4ai4ai4ai5a4iaig3aig%@p2aig3ai2bi4ai4ai4ai4ai4a2i4ai4ai4ai4ai33ai4ai4ai4ai4ai/{12a3i2ai4ai7a5gia#qai7a^a12a5i12ai^r3a3i16a^3aai^3f2iama2ia%ma6ia%k3a5i6a%a3a@a%k2a@a12a$a16ai4ai4ai4ai4a3ia!aai2a!maif!f2fia$!qa2i3gi/{i4ai4ai4ai4ai^a32ai4ai4ai4ai4a2i4ai4ai4ai4ai4ai3b2i2ag2i^#d^pg2i2ag6i4ai4ai4ai4ai4a2i4ai4ai4ai4ai33ai4ai4ai4ai4ai/}i4ai4ai4ai4ai2a^a30ai4ai4ai4ai3a^a2i4ai4ai#m%f#rai4ai4ai2bi3agi2a$pgi3agia4i5ai2a%aai4ai4ai4a7i4ai4ai4ai33ai4ai4ai4ai4ai`
 <br><br>
+
+## Fun levels
+
 Portals Galore by robtech21<br>
 `10|[b4ab4aba^3ab2a^2abaea^a10a^15a3ab4aba^2aaba^2aaba^2aa3b3f2bala2b3n2ba!qabg3bg3a%#a3a$a%#a$a2a$3a2a$a%#a$a5b17ac$#aa5b75a/{4ab4ab4ab4a2b3a5bga%#q2ab4ab4ab4ab25ab3a2b3a2b3a2ba%#pab4gb4ab4ab4ab4ab4ab20a10b24ab45a/{7a$!3aa$a38a5b40a5b20a5b20a5b75a/{b4ab4ab4ab4ab14ab4ab4ab29ab4ab4ab4ab4ab4ab4ab4ab4ab4a5b4a@j15a5b75a/[b4gba!pa2b3n2b4ab$3aa5b20a4bg4ab4ag3a$pg4agb$3o2b$@3a2b3a2b3a2b3a6bga#o2a$g$q#o2aga#o2ab@2b@aa5b20ab3a2b3a2b3a2b3a2ba^aab5a$a4a$a4a$a2a$2a5b15a$5a4ba/{225a`
 <br><br>
