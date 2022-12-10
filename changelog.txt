@@ -99,3 +99,6 @@ v0.4.1 fix 7
 v0.4.1 fix 8
  - Boxes should correctly preserve momentum when going through portals
  - Porals should correctly redefine hosts when pounded
+
+v0.4.1 fix 9
+ - Player controls are now briefly inverted when passing through a same-facing portal
