@@ -102,3 +102,6 @@ v0.4.1 fix 8
 
 v0.4.1 fix 9
  - Player controls are now briefly inverted when passing through a same-facing portal
+
+v0.4.1 fix 10
+ - Made boxes have normal friction regardless of gravity field
