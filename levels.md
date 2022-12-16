@@ -1,5 +1,7 @@
 # Levels
 
+**Notice: Some older levels may not work as designed as the game continues being updated**
+
 A list of levels put together by the team
 
 Put newer levels towards the top of the "Fun/Concept" or "Full-Featured Levels" list, and remember to check back every so often
