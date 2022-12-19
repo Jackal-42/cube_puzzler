@@ -29,6 +29,9 @@ Portal Roulette by Jackal42<br>
 Gate Puzzle Revised by robtech21<br>
 `11|{b3a2b3a2b^3hb^f3a^2f3a^f20a#a4ab4ab4ab4ab4ab4a2i^2hi2g2a#b2gq@a#b2g2a#b2g2bg#b4b12ac2a5bg4ab4ab4ab4ag4a5b4ai2a!aai^#e3ai4ai25ab4ab4ab4ab4ab4a/{100ab4ib4ab4ab4ab%#a3a5i@e^@a13a3i27ab$2f2ib3aib4ab4ab%a3a3g2ia!paia@h!hh12a/{b3a2b3a2b3a2b3a2b3ab25ab^#ra^!a2b3a2b3a2b3a#ab3a#a5i4a%f4a%f4a%f4a6b20ag4ib3a@dba!a2ab4ai4a4ib$f3a2b3a2b3a2b#a2ab25a^f4ab4ab4ab4ab4a/[3gb2a$#qab18a!o4a!o4a!o4a!o4a!o27a4iab4ab4ab4ab6a!o3a@3a2a@a%@m@2a12a3i4ab4ab4ab4a2b4ab4ab4ab4ab@2a@2o7an3a^i^f^i2aikia@o3i@o4ab4ab4ab4ab@4ob/{b^#a2a2b3a2b3a2b^#a2a2b3ab25ab4ab4ab4ab4ab4ab3a2b3a2b3a2b3a2b3ab20a6b4ab4ab4ab4ag4ab3a2b3a2b3a2b3a2b3ab25ab4ab4ab4ab4ab4a/{4ai4ai4ai4ai4ai25ab4a$ba@a2a6b3a2b%e%aab4ai4ai4ai4ai2a$2ai20a6b2i$fbh@e2abha%a%!abha%!a!abi2f%fb4ai4a2ia$#pa2i3gi5b25ab$fa$a2b3a2b$e$aa2b$i2a2b2i%fb`
 <br><br>
+The L by robtech21<br>
+`10|{a$a14a$2a12ab4ab4ab4ab46a%a$!oa2bn7b!o3a!2o3a!2oaca!ob^3fb4a!e15a5b2a$m22ab3a2b3a2badabg3bg30a/{#b3a2b3ab$f3ab$f3ab%b3a4b2ag4agq3ag4a5b3oab4ab4ab4a7b3a2b3a2b3a2ba#pab4gbg4agq3ag4a5b20a5b80a/{$4fb4ab4ab4ab4ab2aba$#q2abk#k2ab^2f2ab4abf%fab3ak4b^fb@r$@r%@rab3a$fba%a5ab4ab4a5bg7ab$rr2ab%ff2ab$f%f2abr$r2ab^2fabf2b%fb$fba$ab%fba%rb^#eba^fb@ob28aba$#p2ab2g16aba^aag4b15a/{!ab!a2a!bb!a2a^@a!b$!a2a!a!2b2b^rh$!he$e$a4a$a4a$a4a$b4a$f8ab4ab4ab4ab4a6b20ab$4h20a6b4ab4aba#o$kabo3b$aa%a2a5b20a3b^2h15a^fa^ha2b^h2a2b3a2b3a2b3ab/{3a3b4ab4ab4ab4a3b22ab4ab4ab4ab4ab4a5b20abg3bab4ab4ab4ab3ab22a$a$e26ab4ab4ab4a4b7a3b2abf#o2abf4bfb!o3ab/{4bg4ab4ab4ab4ab54ab4ab4ab4ab4ab125a`
+<br><br>
 
 ## Fun/Concept levels
 
