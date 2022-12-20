@@ -17,6 +17,9 @@ robtech21's Puzzle<br>
 <br><br>
 
 ## Full-featured levels
+The Loop by Jackal42<br>
+`10|[g5b4ab4ab4ab4aba$!pa2b3a2b3a2b3ab5a4bg4ab4ab4ab4a2b5a$#aa!2a@p3a!aa$a3a2b32ab9ap7a4b^@a3ab$aa#aaba$#a#aab4ag4b7a!a12aba^#pab4ab3a$abc3ab4a5bg/{75ag4ag4ag4ag4ag33ag4ag4ag4ag4ag75a/[g5b4ab4ab4ab^e3aba^#qaba^3a16a4bg4ab4ab4ab4a5b6aq9ab19a^a^3f2a^ak^a5ab2a#aa^h2a#o%@a^@h2a#oa^h4a2b3a^@nb2an^@ab2anab2anag2bgb5n^@e^@an8a^3aaba$!qab4nba!a4a!a2a%@q5a2ba2b/{4ab4ab4ab4ab4ab3ab4ab4ab4ab4ab26a5b15a2b6ab4ab4ab4ab4ab5ag4ag4ag4ag4a2gb3agb3a2g3bg4ag7ab4aba3bg36a/{20a5b5g15abg43a3ba%#p2a2g%#gab4ab4ab4ab3a2g73a5g25a/{25a5g120a6ba@da2b3a2b3a2b3ab20a5g25a`
+<br><br>
 Concepts Explorer by robtech21, fixes by Jackal-42<br>
 `10|{4ab2a^!2ab2a^aa3b^2bb^f6a$e4ab2a^4h$kf3o$f5ab4a6b4a3b^2f5a^fa^a2aba^a^ha%f2a^aa%f3a%!l%fa%a24ac#o#a12a$a%a3a$@a%a3a@a2a2b^2f2b^#a3ab^k%ahab^f%a2ab%h8bh^#r2ab%a4a%aab2a4b^b%2f^@b@bb%2aa@h5a%@aah2a%a4bf/{5a4bg4a2b3a2b19a3bg3a$!eb26ab4a5b4ab3a$a$f4ab3ab4ab4aba^f2aba3bg26ab$2ff2b3a$bbh2a2b2ao2b3ab20a2b28a/{51a2b3a$g4ag$@p$a2aga$#a2a4b150a/{4b!bb2a!a!bb2a!a!bb2a!a!ob3a!o35a^a6ag2b2aba$fb3a!oba$@aa!ob3a!ob3a!ob3a!o15af4af6ab!j$f2ag2b3ag4ag@p3agab3a!ob3a!ob3a!ob3a!ob3a!o^5h14a$@ab3a4b#bb^fa$#h#ag^fa$h@qg^fa$hagb^2h2b/{3ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab4ab4abg3a2b15a5b20ag4ab4a/{b%rb2gababg3a!bg3a^!bb3a!a2a#o3a$q#o$@o@2o!a#o@2aa^!bb^!a7a^@e2aba@3ob2a$2ab4ab4ab%n3b$bb3a^a11abab2a$bb$b2b^aa^a12a3f4afbe^3ab%f3ab%f3ab%m3abg@5o15a5b@5o15a5b@o@bbg4ag3a$pg4aga3bga`
 <br><br>
