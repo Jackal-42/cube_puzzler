@@ -110,3 +110,6 @@ v0.4.1.1
  - Freecam now correctly renders faces away from the player
  - Face culling is now more processing power efficient
  - Quality slider allows user to change resolution
+
+v0.4.1.1 fix 1
+ - Portals no longer incorrectly invert controls when placed on opposite faces
