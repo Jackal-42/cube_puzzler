@@ -38,6 +38,9 @@ The L by robtech21<br>
 
 ## Fun/Concept levels
 
+idk man by Jackal42<br>
+`10|[3n32a@m9a@a6a3n4an4an4a!oa3bn7a$3a2a$aa$a2a$3a32a$@rb4ab4ab4abn3ab8an12a5n5as2aca$a9a5n7as12a5n/{4an4an4an4a6n54an4an4a6n4an53a$hn2an$hna@aa$hn3a$an3abn50a/{225a/{50an3a2n3a2n3a2n3a2n3an50an3a2n3a2n3a#on3a#on3a#o26a4nan4an#d3a4n5a5n$f4a$f4an4anb3a/{150a5n20a5n20a5n20a/}3ab16a5n17ab2a5nab18a5n150a`
+<br><br>
 Platform Collapse by Jackal42<br>
 `10|{b4ab4ab4ab2a!aab6a3b2ab4ab4ab4ab2a5b4ab4ab4abd3a2b4ab4ab4ab4ab#e3a!sa3b2a!b2g2a!b2b2a!a7a2b2abgb2a3b2ab4ab4a2b4ab6ac!a6a5b10a!a3a!aa@a@f@aab3ab4ab3a!aba!l!a7a5b/{26ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab4ab4ab4ab28a/{b4ab4ab4ab4ab33ab4ab4ab4ab4a2b4ab4ab4ab4ab33ab4ab4ab4ab4a2b4ab4ab4ab4ab33ab4ab4ab4ab4ab/{28ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab4ab4ab4ab26a/{b4ab4ab4ab4ab33ab4ab4ab4ab4a2b4ab4ab4a5b20a@b@3a@b9ab4ab4a6b80a/{b4ab4ab4ab4ab33ab4ab4ab10ab4ab4ab4ab4ab11as4a!a21ab4ab4ab4a2b4ab4ab4ab4ab33ab4ab4ab4ab4ab`
 <br><br>
