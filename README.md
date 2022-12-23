@@ -17,7 +17,8 @@ Click on the `Level Code` button to view/copy the current level code or to paste
 
 <br>
 WASD: move (in game mode).<br>
-S: POUND (self explanatory)
+S: POUND (self explanatory)<br>
+SPACE: push/pull boxes (make sure to face them, one box at a time)
 <br>
 
 ### Portal & Box Etiquitte
@@ -26,6 +27,11 @@ Portals should be placed in this configuration to work correctly, unless testing
 Boxes may go through portals but NOT with the player<br>
 Boxes pass through grates and the player does not<br>
 The springs and boxes have variants but do not have color modifications. Mess around with it and see how gravity/force changes<br>
+
+### Falling Platforms
+Standing on them for 40 frames will trigger a fall<br>
+They can be stood on and fall again in another direction once they hit a solid surface<br>
+They cannot be pushed and pulled like other physicsObjects<br>
 
 ### Notes
 v0.0 is finished and plays quite well in my opinion. However, you will most likely find bugs. If you do, report them and please, please try and find a consistent setup and adequate description.<br>
