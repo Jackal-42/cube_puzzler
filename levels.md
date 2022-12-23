@@ -38,6 +38,9 @@ The L by robtech21<br>
 
 ## Fun/Concept levels
 
+Platform Collapse by Jackal42<br>
+`10|{b4ab4ab4ab2a!aab6a3b2ab4ab4ab4ab2a5b4ab4ab4abd3a2b4ab4ab4ab4ab#e3a!sa3b2a!b2g2a!b2b2a!a7a2b2abgb2a3b2ab4ab4a2b4ab6ac!a6a5b10a!a3a!aa@a@f@aab3ab4ab3a!aba!l!a7a5b/{26ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab4ab4ab4ab28a/{b4ab4ab4ab4ab33ab4ab4ab4ab4a2b4ab4ab4ab4ab33ab4ab4ab4ab4a2b4ab4ab4ab4ab33ab4ab4ab4ab4ab/{28ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab4ab4ab4ab26a/{b4ab4ab4ab4ab33ab4ab4ab4ab4a2b4ab4ab4a5b20a@b@3a@b9ab4ab4a6b80a/{b4ab4ab4ab4ab33ab4ab4ab10ab4ab4ab4ab4ab11as4a!a21ab4ab4ab4a2b4ab4ab4ab4ab33ab4ab4ab4ab4ab`
+<br><br>
 Block Rider by robtech21<br>
 `10|]5ba#o4a#o4a#o3a6b3gb2a!p12a10b15a5ba#a3g$!e$pgb^ba#a#g#b^b3b#d^f2a4b3ob2a!p9ac2a3b2og3a2b3a2b3a2b3a2b3ab7a$a10a$f2a4b2a^h2a^h$a6a^a6a5b4ab4ab4ab4a6b/{2b4ab4ab4ab3a^fb54ab4ab4ab4ab4ab54ab4ab4ab4ab4ab53a/]49ab20a5b29ab4ab4ab4ab5ag4ag$qak^kg4a5b80a/]g4b!oa#o2a!oq#o2a!oa#o2a4ba5b4a!o3a^!e!o4a!o4a!o4bg4ab4a$f3aob@o2a$ab!aaf2n!a!ef#a$!n!aaf2n4bab9a!a#aa#a3a2b14abg$!aa$!n$!e!e3abg3a$ab4a2b4ab4ab4ab4ag4b14a#a3a#pa2b3g4ab4ab4ab4a6b/{225a/{5a5b20a5b20a5b165a`
 <br><br>
