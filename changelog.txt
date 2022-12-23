@@ -118,3 +118,7 @@ v0.4.2
  - Added falling platforms which fall away from the player
  - Added the ability to push and pull boxes by holding spacebar
  - Added support for arrow keys controls
+
+v0.4.2 fix 1
+ - Falling platforms should now fall after jumping on them once rather than twice, when they have fallen before
+ - Falling platforms now cannot be triggered to fall again while in motion (on a spring, free fall)
