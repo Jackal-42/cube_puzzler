@@ -126,3 +126,6 @@ v0.4.2 fix 1
 v0.5
  - New graphical tiles
  - Made normal ground unpoundable and added "pound ground"
+
+v0.5 fix 1
+ - Boxes can now be pushed over cube face borders
