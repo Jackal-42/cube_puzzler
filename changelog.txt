@@ -129,3 +129,6 @@ v0.5
 
 v0.5 fix 1
  - Boxes can now be pushed over cube face borders
+
+v0.5 fix 2
+ - The player no longer loses control when pressing space with no boxes in the vicinity
