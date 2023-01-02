@@ -122,3 +122,7 @@ v0.4.2
 v0.4.2 fix 1
  - Falling platforms should now fall after jumping on them once rather than twice, when they have fallen before
  - Falling platforms now cannot be triggered to fall again while in motion (on a spring, free fall)
+
+v0.5
+ - New graphical tiles
+ - Made normal ground unpoundable and added "pound ground"
