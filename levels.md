@@ -38,6 +38,9 @@ The L by robtech21<br>
 
 ## Fun/Concept levels
 
+Ikea by robtech21<br>
+`11|{75a6b4ab4ab4a2bi8bua#ubf3abfrkc6b100a/{175a6b2a#u2ba!da2b2a!v2b3ab25a/{225a/{225a/{225a/{25a6bu3ab4ab4ab#e3a5b3a#ub4ab4ab4ab25abv2avav2avav2avavatv5b2avab2avah2avahatvah5b75a`
+<br><br>
 idk man by Jackal42<br>
 `10|[3n32a@m9a@a6a3n4an4an4a!oa3bn7a$3a2a$aa$a2a$3a32a$@rb4ab4ab4abn3ab8an12a5n5as2aca$a9a5n7as12a5n/{4an4an4an4a6n54an4an4a6n4an53a$hn2an$hna@aa$hn3a$an3abn50a/{225a/{50an3a2n3a2n3a2n3a2n3an50an3a2n3a2n3a#on3a#on3a#o26a4nan4an#d3a4n5a5n$f4a$f4an4anb3a/{150a5n20a5n20a5n20a/}3ab16a5n17ab2a5nab18a5n150a`
 <br><br>
