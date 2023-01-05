@@ -132,3 +132,9 @@ v0.5 fix 1
 
 v0.5 fix 2
  - The player no longer loses control when pressing space with no boxes in the vicinity
+
+v0.5.1
+ - Added chandelier, short and tall candles, table, and wall clock
+ - Some aesthetic tiles and the goal now emit rings of light
+ - Lightened the buttons to make them stand out against the background
+ - Editor menu can now be scrolled through with the mousewheel
