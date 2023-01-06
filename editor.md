@@ -18,7 +18,7 @@ Detailed info about every tile
 | Goal         | Ends the level when the player touches it                                              | Player has to be touching the ground                 | None     |
 | Fly Goal     | Works like a regular goal except you can trigger it while in midair                    | None                                                 | None     |
 | Pound Ground | Allows for the ground to be pounded (or shuffled) when the player presses the down key | Only works when `Can Pound?` is toggled on in-editor | None     |
-| One Way      | Self explainatory                                                                      | None                                                 | None     |
+| One Way      | Self explainatory                                                                      | Sides other than the top cannot be jumped off of     | None     |
 
 ### Logic
 
@@ -35,7 +35,7 @@ Detailed info about every tile
 |-|-|-|-|
 |Crate|1x1 physics object that you can move around|Can activate buttons and will bounce on springs|Gravity speed|
 |Large Crate|1x3 version of the crate|Can activate buttons and will bounce on springs|Gravity speed|
-|Fall Block|Falls after the player steps on it|
+|Fall Block|Falls after the player steps on it|Cannot be pushed or pulled|
 |Spring|Makes crates bounce|None|Bounces less with higher variant numbers|
 |Grate|Block that is solid for the player, but physics blocks can fall through.|None|None
 |Portal In|Portal that the player enters|None|Colors|
@@ -63,5 +63,26 @@ Press and hold `shift` and it should look like this:
 
 Just left-click the face to change the gravity, this will only affect the movement of physics objects such as boxes. This gravity is indicated in game by the player's beard.
 
-## Level Idea Concepts 
+### Variants
+![image](https://user-images.githubusercontent.com/91426054/211079451-4bdf8f36-953b-46bf-98a8-b50a48639483.png)
 
+Some tiles have multiple variants. You can see what the variants do by consulting the tables earlier in this document.<br>
+Not every variant comes with a color change. It may sometimes be difficult to tell as there is currently no indicator.<br>
+Swap variant using the four numbered buttons at the top of the editor.<br>
+The current variant is shown just below the selected tile.<br>
+
+## Etiquette
+
+### Portal Encasing
+<img width="134" alt="image" src="https://user-images.githubusercontent.com/91426054/211056694-02df3109-96d1-4ffa-9c6c-e81c8cb59cd6.png">
+Portals are meant to be encased in a configuration such as this one to prevent awkward teleportations and graphical glitches. The hollow tiles are essential to the portal's functionality
+
+### Hollow Corners
+<img width="65" alt="image" src="https://user-images.githubusercontent.com/91426054/211078312-2b2cf6f8-88c8-46b1-8f74-8b65df0f365a.png">
+If the corner of a wall is out of bounds and the player will never interact with it, swap it out for a hollow tile to save processing power
+
+### Minimal physicsObject interaction
+<img width="96" alt="image" src="https://user-images.githubusercontent.com/91426054/211078797-4c4cc15c-12ff-482f-a1cd-efa0725af7e4.png">
+physicsObjects such as boxes and fall blocks may have weird behavior when contacting each other due to the physics system. You can try to combine them, but if it doesn't work, try something else
+
+## Level Idea Concepts 
