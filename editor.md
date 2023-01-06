@@ -2,6 +2,8 @@
 
 This guide shows the ins and outs of the level editor
 
+**_This isn't done_**
+
 ## Tile Info
 
 Detailed info about every tile
@@ -40,3 +42,26 @@ Detailed info about every tile
 |Portal Out|Portal that the player exits out of|None|Colors|
 
 ### Decorative
+
+## Editor Mechanics
+
+Guide on using the editor
+
+### Controls
+
+|Key|Use|
+|-|-|
+|1-9|Switch between the first 9 tiles|
+|`R`|Rotate the selected tile|
+|`+` and `-`|Scale the editor GUI|
+
+### Change Gravity
+
+Press and hold `shift` and it should look like this:
+
+![gravity_arrow](https://user-images.githubusercontent.com/77758464/211035695-505d4d3a-6d1c-4e7f-864f-76904bc56d00.png)
+
+Just left-click the face to change the gravity, this will only affect the movement of physics objects such as boxes. This gravity is indicated in game by the player's beard.
+
+## Level Idea Concepts 
+
