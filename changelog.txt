@@ -138,3 +138,7 @@ v0.5.1
  - Some aesthetic tiles and the goal now emit rings of light
  - Lightened the buttons to make them stand out against the background
  - Editor menu can now be scrolled through with the mousewheel
+
+v0.5.1 fix 1
+ - Hold buttons should no longer become "stuck"
+ - Portals on opposite cube faces should no longer jitter
