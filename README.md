@@ -1,4 +1,6 @@
-Play the game [here](https://jackal-42.github.io/cube_puzzler/)
+[Play the game here](https://jackal-42.github.io/cube_puzzler/)
+
+[Editor documentation](editor.md)
 
 ### Controls
 
