@@ -1,6 +1,11 @@
+# Cube Puzzler
+
 [Play the game here](https://jackal-42.github.io/cube_puzzler/)
 
 [Editor documentation](editor.md)
+
+![Screen Shot 2023-01-10 at 9 10 34 AM](https://user-images.githubusercontent.com/77758464/211573529-95a2f5d1-fb21-430d-b64b-50ada0dbe551.png)
+
 
 ### Controls
 
