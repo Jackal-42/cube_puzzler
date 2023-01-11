@@ -42,6 +42,8 @@ Detailed info about every tile
 |Portal Out|Portal that the player exits out of|None|Colors|
 
 ### Decorative
+|Tile|Use|Additional Info|Variants|
+|-|-|-|-|
 
 ## Editor Mechanics
 
@@ -53,6 +55,7 @@ Guide on using the editor
 |-|-|
 |1-9|Switch between the first 9 tiles|
 |`R`|Rotate the selected tile|
+|`F`|Sets view to face `0`|
 |`+` and `-`|Scale the editor GUI|
 
 ### Change Gravity
