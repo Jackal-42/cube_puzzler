@@ -2,7 +2,7 @@
 
 [Play the game here](https://jackal-42.github.io/cube_puzzler/)
 
-[Levels made by the devs and community]levels.md
+[Levels made by the devs and community](levels.md)
 
 [Editor documentation](editor.md)
 
