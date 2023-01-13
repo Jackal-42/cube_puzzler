@@ -17,7 +17,7 @@ robtech21's Puzzle<br>
 <br><br>
 
 ## Full-featured levels
-The Loop by Jackal42<br>
+The Loop by Jackal42 <b>[UNSTABLE]</b><br>
 `10|[g5b4ab4ab4ab4aba$!pa2b3a2b3a2b3ab5a4bg4ab4ab4ab4a2b5a$#aa!2a@p3a!aa$a3a2b32ab9ap7a4b^@a3ab$aa#aaba$#a#aab4ag4b7a!a12aba^#pab4ab3a$abc3ab4a5bg/{75ag4ag4ag4ag4ag33ag4ag4ag4ag4ag75a/[g5b4ab4ab4ab^e3aba^#qaba^3a16a4bg4ab4ab4ab4a5b6aq9ab19a^a^3f2a^ak^a5ab2a#aa^h2a#o%@a^@h2a#oa^h4a2b3a^@nb2an^@ab2anab2anag2bgb5n^@e^@an8a^3aaba$!qab4nba!a4a!a2a%@q5a2ba2b/{4ab4ab4ab4ab4ab3ab4ab4ab4ab4ab26a5b15a2b6ab4ab4ab4ab4ab5ag4ag4ag4ag4a2gb3agb3a2g3bg4ag7ab4aba3bg36a/{20a5b5g15abg43a3ba%#p2a2g%#gab4ab4ab4ab3a2g73a5g25a/{25a5g120a6ba@da2b3a2b3a2b3ab20a5g25a`
 <br><br>
 Concepts Explorer 1 by robtech21, fixes by Jackal-42<br>
@@ -30,7 +30,7 @@ Concepts Explorer 1 Deluxe by robtech21<br>
 Concepts Explorer 2 by robtech21<br>
 `10|[g2bh2ba@2a%@aba!a2a%b2a%aa%b2a%a!ah3bh@3a^a%aa%a!l%a$a%aa%a$aara$a2abhb@bg$@a@a2aba$a2ab^h$a2ana$a2a2ba%@a@a%@ab4a%f4a%f2a%aa5b%@bo^oo2ba^!qa^bb3gb%b3bagbc2b^aa^hab@a^a2a^f^a$a2a^fa$aa@a5bg2b@a2abg3ab$@g$@pa@qbg!a2abg3f2ba2bgbabg@gbab$!ggbabg2ba2ba@eabg$aa$a2g@p@a$@q$@gg2a$a2g5b/]75abg3a@db4ab3abg65a!3a5a5b10a!a9a5b20a5b5a/{3a^#p3a3g15a^r2ba^#pbgb2g16a^rb2agbg89ag2b15a5b2a%#a17ag4ab6ab$#e3ab4ag2b6a%a3a/]51a4gaba%!pagb3ab4ab4a5g%!ba%!p2ab$4hb2a$2ab4a5g%!p2a%!pa$5h$a9a2b3ab4a%b4abab2ab8a$a5ab4ab2a$hab%#a5a%a4ab%!a4a%a%!a10a$f4a$f4ab4ab4ab4a/[2ab^hb2abab2abab2abab2abababgb^habgb2abgb2abgb2abgbabab2abab2abab2abab2abab4abab2abab2abab2abab2abababgb2abgb2abgb2abgba^!abgbabab2abab2abab2abab2ab^!ab4abab2ab^@ab2abab2abab2abnbabgb2abgb2abgb2abgban3bnbab@aabab@aabab2abab2abnb2a/{2b3ag4ag@p3ag4ag4b12ab3ab%@ebab$3fb4ab4af4af%a%!a2af5b22ab7a$h10ab2ab4ab4ab4aba4b$h!oagb$h!o%@qgb6a%a13a5b$ka$kkbfa2fbma2mb4a6b$h!oagba4b4ab4ab4ab`
 <br><br>
-Portal Roulette by Jackal42<br>
+Portal Roulette by Jackal42 <b>[DIFFICULT]</b><br>
 `11|}b4ab4ab4ab4ab33ab4ab4ab4ab4a2b4ab2aoab#mc2ab4ab4ab2ib3agb2apgb3agba4b5ab4ab4ab4ab4a7b4ab4ab4ab33ab4ab4ab4ab4ab/]11a@o7a%!r5a%f$faba%f$f3ab4ab4ab12a%@a4a%@a6ab4a2b3ag4ag%q3ag4a2b3ab4ab4ab4ab4ab7a2b4ag3a^@qg4ag3a2b9a$!rao13ab4ab4ab4a%f$f3a%f$fabab24a/{b4ab4ab4ab4ab33ab4ab4ab4ab4a2b4ab4ab4ab4ab5a4babg3abg%@p2abg3ab2ib4ab4ab4ab4ab4a2b4ab4ab4ab4ab33ab4ab4ab4ab4ab/{12a3b2ab4ab7a5gba#qab7a^a12a5b12ab^r3a3b16a^3aab^3f2bama2ba%ma6ba%k3a5b6a%a3a@a%k2a@a12a$a16ab4ab4ab4ab4a3ba!aab2a!mabf!f2fba$!qa2b3gb/{b4ab4ab4ab4ab^a32ab4ab4ab4ab4a2b4ab4ab4ab4ab4ab3i2b2ag2b^#d^pg2b2ag6b4ab4ab4ab4ab4a2b4ab4ab4ab4ab33ab4ab4ab4ab4ab/}b4ab4ab4ab4ab2a^a30ab4ab4ab4ab3a^a2b4ab4ab#m%f#rab4ab4ab2ib3agb2a$pgb3agba4b5ab2a%aab4ab4ab4a7b4ab4ab4ab33ab4ab4ab4ab4ab`
 <br><br>
 Gate Puzzle Revised by robtech21<br>
@@ -48,19 +48,19 @@ Box Buttons by robtech21<br>
 Ikea by robtech21<br>
 `11|{75a6b4ab4ab4a2bi8bua#ubf3abfrkc6b100a/{175a6b2a#u2ba!da2b2a!v2b3ab25a/{225a/{225a/{225a/{25a6bu3ab4ab4ab#e3a5b3a#ub4ab4ab4ab25abv2avav2avav2avavatv5b2avab2avah2avahatvah5b75a`
 <br><br>
-idk man by Jackal42<br>
+idk man by Jackal42 <b>[DIFFICULT]</b><br>
 `10|[3n32a@m9a@a6a3n4an4an4a!oa3bn7a$3a2a$aa$a2a$3a32a$@rb4ab4ab4abn3ab8an12a5n5as2aca$a9a5n7as12a5n/{4an4an4an4a6n54an4an4a6n4an53a$hn2an$hna@aa$hn3a$an3abn50a/{225a/{50an3a2n3a2n3a2n3a2n3an50an3a2n3a2n3a#on3a#on3a#o26a4nan4an#d3a4n5a5n$f4a$f4an4anb3a/{150a5n20a5n20a5n20a/}3ab16a5n17ab2a5nab18a5n150a`
 <br><br>
-Platform Collapse by Jackal42<br>
+Platform Collapse by Jackal42 <b>[DIFFICULT]</b><br>
 `10|{b4ab4ab4ab2a!aab6a3b2ab4ab4ab4ab2a5b4ab4ab4abd3a2b4ab4ab4ab4ab#e3a!sa3b2a!b2g2a!b2b2a!a7a2b2abgb2a3b2ab4ab4a2b4ab6ac!a6a5b10a!a3a!aa@a@f@aab3ab4ab3a!aba!l!a7a5b/{26ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab4ab4ab4ab28a/{b4ab4ab4ab4ab33ab4ab4ab4ab4a2b4ab4ab4ab4ab33ab4ab4ab4ab4a2b4ab4ab4ab4ab33ab4ab4ab4ab4ab/{28ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab4ab4ab4ab26a/{b4ab4ab4ab4ab33ab4ab4ab4ab4a2b4ab4ab4a5b20a@b@3a@b9ab4ab4a6b80a/{b4ab4ab43ab4ab4ab15ab4ab4ab4ab11as4a!a21ab4ab4ab4a2b4ab4ab4ab4ab33ab4ab4ab4ab4ab`
 <br><br>
-Block Rider by robtech21<br>
+Block Rider by robtech21 <b>[UNSTABLE]</b><br>
 `10|]5ba#o4a#o4a#o3a6b3gb2a!p12a10b15a5ba#a3g$!e$pgb^ba#a#g#b^b3b#d^f2a4b3ob2a!p9ac2a3b2og3a2b3a2b3a2b3a2b3ab7a$a10a$f2a4b2a^h2a^h$a6a^a6a5b4ab4ab4ab4a6b/{2b4ab4ab4ab3a^fb54ab4ab4ab4ab4ab54ab4ab4ab4ab4ab53a/]49ab20a5b29ab4ab4ab4ab5ag4ag$qak^kg4a5b80a/]g4b!oa#o2a!oq#o2a!oa#o2a4ba5b4a!o3a^!e!o4a!o4a!o4bg4ab4a$f3aob@o2a$ab!aaf2n!a!ef#a$!n!aaf2n4bab9a!a#aa#a3a2b14abg$!aa$!n$!e!e3abg3a$ab4a2b4ab4ab4ab4ag4b14a#a3a#pa2b3g4ab4ab4ab4a6b/{225a/{5a5b20a5b20a5b165a`
 <br><br>
 Portals Galore by robtech21<br>
 `10|[b4ab4aba^3ab2a^2abaea^a10a^15a3ab4aba^2aaba^2aaba^2aa3b3f2bala2b3n2ba!qabg3bg3a%#a3a$a%#a$a2a$3a2a$a%#a$a5b17ac$#aa5b75a/{4ab4ab4ab4a2b3a5bga%#q2ab4ab4ab4ab25ab3a2b3a2b3a2ba%#pab4gb4ab4ab4ab4ab4ab20a10b24ab45a/{7a$!3aa$a38a5b40a5b20a5b20a5b75a/{b4ab4ab4ab4ab14ab4ab4ab29ab4ab4ab4ab4ab4ab4ab4ab4ab4a5b4a@j15a5b75a/[b4gba!pa2b3n2b4ab$3aa5b20a4bg4ab4ag3a$pg4agb$3o2b$@3a2b3a2b3a2b3a6bga#o2a$g$q#o2aga#o2ab@2b@aa5b20ab3a2b3a2b3a2b3a2ba^aab5a$a4a$a4a$a2a$2a5b15a$5a4ba/{225a`
 <br><br>
-Change Of Perspective (i really like this one)<br>
+Change Of Perspective<br>
 <code>10|{b12a!bb2abah2abah4ab4ab4ab4ab4ab27ab$dh3a2b9a@o9ab4ab4ab4ab4ab29aeb2a3bacbabaobab2ab5a2b3ng2af4ak2agam27a/{225a/{225a/{50ab3a2b4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab3a2b3a2b3a2b3ab/{150a5b15ab4a4bg4ab4ab4ab4ab25a/{b2ab3aob4ab4aba3bg3ag197a</code>
 <br><br>
 Boxes &amp; Buttons<br>
