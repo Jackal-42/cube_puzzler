@@ -148,3 +148,6 @@ v0.5.1 fix 2
 
 v0.5.2
  - Editor now has better arrangement
+
+v0.5.2.forgot_to_add_the_spawn_point_lol
+ - Remembered to add the spawn point
