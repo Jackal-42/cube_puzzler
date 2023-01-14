@@ -148,4 +148,3 @@ v0.5.1 fix 2
 
 v0.5.2
  - Editor now has better arrangement
- - Possibly fixed a bug where the game crashes when cancelling a JS prompt
