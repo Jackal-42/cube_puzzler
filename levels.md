@@ -6,6 +6,12 @@ A list of levels put together by the team
 
 Put newer levels towards the top of the "Fun/Concept" or "Full-Featured Levels" list, and remember to check back every so often
 
+## Main Levels (WIP)
+
+The Basement by robtech21<br>
+`11|{bf4b2awab4ab!u3abo3a5b2a$#aa#u15a3bkbw2afb4ab4ab4ab$#o4a$#o4a$#o4ab2a@uvb3nb17alac5b3a$@ab4abax2abaza@a5bgbuea#ob3f#oba@ea#oba#pa#o4gbu3abaA#a4a#o6ar2h3ba$a!a#a!ga!2a@q!ga!2a@g!b2a!a@u%h$2f3n/{150ag5b4ab#d2a#wb4ab#z#x2ag4ab4ab4ab4ab29a/[95ag4b2a$@a17a5b12a@a4af2a4b2gu2a$fg$@p2a$fg3a$fb3abg4b2a$@ya#a10a$#a4a$#e4a$ha@eab$h3ab$h3ab$b2a@u5bg/{37a$a9a$a24ag2b27a%a24agaf2ag$qf2agaf2ag2b80a/{84ab3abg2a2gba3gb5a4ba4gba!pabg3abg15ag4a2g3ag6b2a#ob3a#ob3a#obay%a#o3a2b$a4a$a3af$a4a$amata2bg2af2b2akfb2afab4ab2a/{4ab4ab4ab4ab4ab4a$a15ax3ax$f4ab4ab4ab4ab!u%a%r%a4ag4ab4ab4ab4a2basab20ag5b4ab4ab4ab8ab4ab4ab4ab4ab25ab4ab4ab4ab4ab4a`
+<br><br>
+
 ## Team Member Level Entries (Anonymous)
 
 Member 1:<br>
