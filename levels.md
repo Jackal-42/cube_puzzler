@@ -59,6 +59,8 @@ Box Buttons by robtech21<br>
 
 ## Fun/Concept levels
 
+Gravity Puzzle by Jackal42<br>
+`11|{6b4ab4ab4ab4ab3ab20a5b4ab4ab4ab4a2b19ab11a@a14ac2ab3ab19a2b4ab4ab4ab4a7b@b2b2a@d12ab3ab4ab4ab4ab4a6b/{2ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab4ab4ab4ab52a/{225a/{52ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab4ab4ab4ab2a/{160a5b20a2b@b2b20a5b10a/{10a5b20a5b20a5b160a`
 Ikea by robtech21<br>
 `11|{75a6b4ab4ab4a2bi8bua#ubf3abfrkc6b100a/{175a6b2a#u2ba!da2b2a!v2b3ab25a/{225a/{225a/{225a/{25a6bu3ab4ab4ab#e3a5b3a#ub4ab4ab4ab25abv2avav2avav2avavatv5b2avab2avah2avahatvah5b75a`
 <br><br>
