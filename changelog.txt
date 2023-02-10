@@ -151,3 +151,9 @@ v0.5.2
 
 v0.5.2.forgot_to_add_the_spawn_point_lol
  - Remembered to add the spawn point
+
+v0.6
+ - New title screen
+ - "Play" mode puts the player through a selection of levels
+ - Added a text component with filler text determined by variant
+ - 3D background provides a better sense of perspective
