@@ -64,7 +64,7 @@ Press and hold `shift` and it should look like this:
 
 ![gravity_arrow](https://user-images.githubusercontent.com/77758464/211035695-505d4d3a-6d1c-4e7f-864f-76904bc56d00.png)
 
-Just left-click the face to change the gravity, this will only affect the movement of physics objects such as boxes. This gravity is indicated in game by the player's beard.
+Just left-click the face to change the gravity, this will only affect the movement of physics objects such as boxes. This gravity is indicated in-game by the player's beard and by the orientation of the background landscape.
 
 ### Variants
 ![image](https://user-images.githubusercontent.com/91426054/211079451-4bdf8f36-953b-46bf-98a8-b50a48639483.png)
@@ -84,8 +84,8 @@ Portals are meant to be encased in a configuration such as this one to prevent a
 <img width="65" alt="image" src="https://user-images.githubusercontent.com/91426054/211078312-2b2cf6f8-88c8-46b1-8f74-8b65df0f365a.png">
 If the corner of a wall is out of bounds and the player will never interact with it, swap it out for a hollow tile to save processing power
 
-### Minimal physicsObject interaction
+### Minimal `physicsObject` interaction
 <img width="96" alt="image" src="https://user-images.githubusercontent.com/91426054/211078797-4c4cc15c-12ff-482f-a1cd-efa0725af7e4.png">
-physicsObjects such as boxes and fall blocks may have weird behavior when contacting each other due to the physics system. You can try to combine them, but if it doesn't work, try something else
+`physicsObjects` such as boxes and fall blocks may have weird behavior when contacting each other due to the physics system. You can try to combine them, but if it doesn't work, try something else
 
 ## Level Idea Concepts 
