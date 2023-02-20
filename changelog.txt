@@ -162,3 +162,7 @@ v0.6.1
  - Removed the functionalty of an unintentional button
  - Changed the preset text to be more relevant
  - Added fade animations
+
+v0.6.1 fix 1
+ - Hastened the load transition
+ - Added newly created levels
