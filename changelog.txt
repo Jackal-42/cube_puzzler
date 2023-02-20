@@ -157,3 +157,8 @@ v0.6
  - "Play" mode puts the player through a selection of levels
  - Added a text component with filler text determined by variant
  - 3D background provides a better sense of perspective
+
+v0.6.1
+ - Removed the functionalty of an unintentional button
+ - Changed the preset text to be more relevant
+ - Added fade animations
