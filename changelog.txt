@@ -166,3 +166,8 @@ v0.6.1
 v0.6.1 fix 1
  - Hastened the load transition
  - Added newly created levels
+
+v0.6.2
+ - Added a decorative bookshelf that blinks when far enough away
+ - Added fast fall (down key in the air)
+ - Added a speedrun timer
