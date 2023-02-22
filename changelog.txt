@@ -171,3 +171,8 @@ v0.6.2
  - Added a decorative bookshelf that blinks when far enough away
  - Added fast fall (down key in the air)
  - Added a speedrun timer
+
+v0.6.3
+ - Added a playback feature (no option to enter the code yet)
+ - Revamped the title screen
+ - Tweaked the box physics to hopefully make them more consistent
