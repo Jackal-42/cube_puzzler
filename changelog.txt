@@ -176,3 +176,11 @@ v0.6.3
  - Added a playback feature (no option to enter the code yet)
  - Revamped the title screen
  - Tweaked the box physics to hopefully make them more consistent
+
+v0.6.4
+ - Lock the editor until game is beaten
+ - Removed playback button
+ - Fixed graphical bugs with the ground
+ - Small tweaks to campaign levels
+ - Hint block that prompts retry
+ - Space prompt when next to a box
