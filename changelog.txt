@@ -184,3 +184,6 @@ v0.6.4
  - Small tweaks to campaign levels
  - Hint block that prompts retry
  - Space prompt when next to a box
+
+v0.6.4 fix 1
+ - Fixed a portal bug with the basement level
