@@ -1,6 +1,6 @@
 # Editor Guide
 
-This guide shows the ins and outs of the level editor
+This guide shows the ins and outs of the level editor. The editor can be accessed from the title screen by completing the game, or by hitting `CTRL+E` if you're in a hurry or something.
 
 **_This isn't done_**
 
