@@ -24,10 +24,11 @@ Detailed info about every tile
 
 | Tile        | Use                                                     | Additional Info                         | Variants |
 |-------------|---------------------------------------------------------|-----------------------------------------|----------|
-| Push Button | Toggles gates and anti gates when touched               | Can be toggled by boxes and fall blocks | Colors   |
-| Hold Button | Toggles gates and anti gates when touched and held down | Can be toggled by boxes and fall blocks | Colors   |
+| Push Button | Toggles gates and anti gates when touched               | Can also be toggled by boxes and fall blocks | Colors   |
+| Hold Button | Toggles gates and anti gates when touched and held down | Can also be toggled by boxes and fall blocks | Colors   |
 | Gate        | Toggled on/off by push and hold buttons                 | None                                    | Colors   |
 | Anti Gate   | Has a state opposite of the regular gate                | None                                    | Colors   |
+|Hint|Used in levels for players who have softlocked themselves|Toggled *only* by boxes with the same variant number|Colors|
 
 ### Physics
 
@@ -42,8 +43,18 @@ Detailed info about every tile
 |Portal Out|Portal that the player exits out of|None|Colors|
 
 ### Decorative
-|Tile|Use|Additional Info|Variants|
+|Tile|Size|Additional Info|Produces Light?|
 |-|-|-|-|
+|Clock|1x2|None|No|
+|Web|1x1|None|No|
+|Sofa|1x2|None|No|
+|Chandelier|1x4|None|Yes|
+|Short Candle|1x1|None|Yes|
+|Tall Candle|1x2|None|Yes|
+|Table|1x1|None|No|
+|Wall Clock|1x1|None|No|
+|Text|N/A|Depending on variant, changes between multiple texts used in the campaign.|No|
+|Bookcase|1x2|Eyes will blink out of the black space in the top of the bookcase if you are not in the same face as it.|No|
 
 ## Editor Mechanics
 
