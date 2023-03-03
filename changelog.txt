@@ -191,3 +191,6 @@ v0.6.4 fix 1
 v0.6.5
  - Added play and edit buttons for the editor play mode
  - Added button which opens documentation in a new tab
+
+v0.6.5 fix 1
+ - Space prompt no longer shows up next to falling platforms
