@@ -194,3 +194,8 @@ v0.6.5
 
 v0.6.5 fix 1
  - Space prompt no longer shows up next to falling platforms
+
+v0.6.6
+ - Physics objects should be less janky
+ - Fixed a bug that allowed players to clip crates through the wall
+ - Fixed a bug that allowed the player to hold multiple crates
