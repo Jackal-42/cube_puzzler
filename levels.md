@@ -68,6 +68,9 @@ Bookshelf by robtech21<br>
 
 ## Fun/Concept levels
 
+Salmon Ladder by Jackal42<br>
+`11|{aba#p2a4ga2g#bba2g3a2g2aba$#pa2b3g6b11a%#paba3gba4b2a!o4a!o4a2g3a2gq2a2g3agb4ab9a2b$a2abg$a2abg$q2abg2a!a16ab%b3abg2abac2ab2o2a!b4ab4a3b2a2ba2o2b@o10a5b3abg@3obg2a#a2b5a5b/{17a!o4a!o54a!o4a!o7a%a25ax4azad16ax4az4a%q3ab4ab@4ob4a11bu19ab24a/{225a/{225a/{5agaga4ga2gagag10a2gag2agaga2ga2g12a2g3aga2ga2g10ag4ag2agag3a2g4ag11aga3g9ag5ag3a3g3ag3ag10ab4ab4ab4ab8ab3a2b3a2b3a2b3ab8ab4ab4ab4aba/{225a`
+<br><br>
 Gravity Puzzle But Easier by Jackal42<br>
 `11|{85a6b4ab14a5b20a5b2a@dab4a2b4ab3a2b3a2b4ab9a5b17aca8b3a2b3a2b2ab/{155a4b4ab4abab2ab51a/{225a/{225a/{142a@a82a/{b4ab4ab4a5b20a3b4a5b2ab11a6b153a`
 <br><br>
