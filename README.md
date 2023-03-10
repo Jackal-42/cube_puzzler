@@ -23,7 +23,7 @@ Click on the `Level Code` button to view/copy the current level code or to paste
 **Shift + Left Click** (in editor) rotate the gravity of the clicked face<br>
 **Left click & drag (in game mode):** freecam during gameplay<br>
 **Right click & drag:** rotate the cube in-editor<br>
-**ctrl + e** Force into editor<br>
+**ctrl + i** Force into editor<br>
 
 <br>
 WASD: move (in game mode).<br>
