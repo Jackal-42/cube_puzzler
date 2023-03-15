@@ -28,7 +28,7 @@ Detailed info about every tile
 | Hold Button | Toggles gates and anti gates when touched and held down | Can also be toggled by boxes and fall blocks | Colors   |
 | Gate        | Toggled on/off by push and hold buttons                 | None                                    | Colors   |
 | Anti Gate   | Has a state opposite of the regular gate                | None                                    | Colors   |
-|Hint|Used in levels for players who have softlocked themselves|Toggled *only* by boxes with the same variant number|Colors|
+|Hint|Displays a message prompting a retry when players who have softlocked themselves|Toggled *only* by boxes with the same variant number|Colors|
 
 ### Physics
 
@@ -39,8 +39,8 @@ Detailed info about every tile
 |Fall Block|Falls after the player steps on it|Cannot be pushed or pulled|
 |Spring|Makes crates bounce|None|Bounces less with higher variant numbers|
 |Grate|Block that is solid for the player, but physics blocks can fall through.|None|None
-|Portal In|Portal that the player enters|None|Colors|
-|Portal Out|Portal that the player exits out of|None|Colors|
+|Portal In|One side of a portal pair. Contrary to the name, you can enter AND exit it.|Only put one of each variant per level|Colors|
+|Portal Out|The other side of a portal pair.|Only put one of each variant per level|Colors|
 
 ### Decorative
 |Tile|Size|Additional Info|Produces Light?|
@@ -94,9 +94,3 @@ Portals are meant to be encased in a configuration such as this one to prevent a
 ### Hollow Corners
 <img width="65" alt="image" src="https://user-images.githubusercontent.com/91426054/211078312-2b2cf6f8-88c8-46b1-8f74-8b65df0f365a.png">
 If the corner of a wall is out of bounds and the player will never interact with it, swap it out for a hollow tile to save processing power
-
-### Minimal `physicsObject` interaction
-<img width="96" alt="image" src="https://user-images.githubusercontent.com/91426054/211078797-4c4cc15c-12ff-482f-a1cd-efa0725af7e4.png">
-`physicsObjects` such as boxes and fall blocks may have weird behavior when contacting each other due to the physics system. You can try to combine them, but if it doesn't work, try something else
-
-## Level Idea Concepts 
