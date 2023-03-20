@@ -199,3 +199,12 @@ v0.6.6
  - Physics objects should be less janky
  - Fixed a bug that allowed players to clip crates through the wall
  - Fixed a bug that allowed the player to hold multiple crates
+
+v0.7
+ - New experimental tile menu accessed by pressing "x" in the editor
+ - Full playback support. Playback codes can be loaded is as of they were level codes
+ - Playback from users is now saved to a Google Sheet
+ - New mechanics including lantern, water jet, ballons
+ - Boxes bounce off the player's head rather than clipping them into the ground
+ - Alt hotkeys (more info in editor.md)
+ - Minor debugging regarding portal pairs
