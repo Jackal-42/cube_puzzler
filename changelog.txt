@@ -224,3 +224,6 @@ v0.7.2
  - Added noclip (n)
  - Warp to checkpoints with c + (0-9)
  - Playback codes are now identified with a cookie, fixing a crash
+
+v0.7.2 fix 1
+ - Spawn points on faces other than 0 should no longer corrupt the cube faces
