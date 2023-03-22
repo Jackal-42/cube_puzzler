@@ -1,6 +1,6 @@
 # Editor Guide
 
-This guide shows the ins and outs of the level editor. The editor can be accessed from the title screen by completing the game, or by hitting `CTRL+I` if you're in a hurry or something.
+This guide shows the ins and outs of the level editor. The editor can be accessed from the title screen by completing the game, or by hitting `CTRL+I` if you're in a hurry or something. Hitting `CTRL+I` also puts you into developer mode, allowing the use of certain commands (specified later)
 
 **_This isn't done_**
 
@@ -14,7 +14,8 @@ Detailed info about every tile
 |--------------|----------------------------------------------------------------------------------------|------------------------------------------------------|----------|
 | Ground       | Solid block tile                                                                       | None                                                 | None     |
 | Hollow       | No-collision ground block                                                              | Used for level optimization                          | None     |
-| Spawn        | Indicates player spawn                                                                 | Only works on face `0`                               | None     |
+| Spawn        | Indicates player spawn                                                                 | Works with any face and orientation, not just `0`                               | None     |
+| Checkpoint        | Touch to respawn there instead of at spawn                                                                 | Works with any face and orientation, not just `0`                               | None     |
 | Goal         | Ends the level when the player touches it                                              | Player has to be touching the ground                 | None     |
 | Fly Goal     | Works like a regular goal except you can trigger it while in midair                    | None                                                 | None     |
 | Pound Ground | Allows for the ground to be pounded (or shuffled) when the player presses the down key | Only works when `Can Pound?` is toggled on in-editor | None     |
@@ -69,6 +70,13 @@ Guide on using the editor
 |`F`|Sets view to face `0`|
 |`+` and `-`|Scale the editor GUI|
 |\` + key|Hotswap to tile with pressed ID|
+
+### In Play Mode (developer mode only)
+
+|Key|Use|
+|-|-|
+|`c` + 0-9|Warp to specified checkpoint (`0` is the spawn point)|
+|`n`|Toggle noclip|
 
 ### Change Gravity
 
