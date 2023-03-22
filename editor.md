@@ -68,6 +68,7 @@ Guide on using the editor
 |`R`|Rotate the selected tile|
 |`F`|Sets view to face `0`|
 |`+` and `-`|Scale the editor GUI|
+|\` + key|Hotswap to tile with pressed ID|
 
 ### Change Gravity
 
