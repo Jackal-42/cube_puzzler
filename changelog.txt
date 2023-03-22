@@ -217,3 +217,10 @@ v0.7.1
  - Changed the "hotswap" key from alt to tilde
  - Player can now press and hold Left Shift in game mode to emote. No effect on gameplay.
  - Lowered the resolution of the cube faces
+
+v0.7.2
+ - Spawn points now work with any face and orientation
+ - Added checkpoints
+ - Added noclip (n)
+ - Warp to checkpoints with c + (0-9)
+ - Playback codes are now identified with a cookie, fixing a crash
