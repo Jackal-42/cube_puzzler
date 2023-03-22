@@ -208,3 +208,12 @@ v0.7
  - Boxes bounce off the player's head rather than clipping them into the ground
  - Alt hotkeys (more info in editor.md)
  - Minor debugging regarding portal pairs
+
+v0.7.1
+ - Crates can no longer be stretched when grabbed
+ - Water no longer collides with the hint blocks and buttons
+ - Playback codes have been refactored to be more efficient
+ - The water jet tile now has a full-size collider
+ - Changed the "hotswap" key from alt to tilde
+ - Player can now press and hold Left Shift in game mode to emote. No effect on gameplay.
+ - Lowered the resolution of the cube faces
