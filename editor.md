@@ -70,13 +70,14 @@ Guide on using the editor
 |`F`|Sets view to face `0`|
 |`+` and `-`|Scale the editor GUI|
 |\` + key|Hotswap to tile with pressed ID|
+|`U`|Open a menu to change the cube dimensions|
 
 ### In Play Mode (developer mode only)
 
 |Key|Use|
 |-|-|
-|`c` + 0-9|Warp to specified checkpoint (`0` is the spawn point)|
-|`n`|Toggle noclip|
+|`C` + 0-9|Warp to specified checkpoint (`0` is the spawn point)|
+|`N`|Toggle noclip|
 
 ### Change Gravity
 
