@@ -227,3 +227,8 @@ v0.7.2
 
 v0.7.2 fix 1
  - Spawn points on faces other than 0 should no longer corrupt the cube faces
+
+v0.7.3
+ - The cube can be set to a variety of sizes by pressing [U] in the editor
+ - Fixed a bug where there was a preloaded level set when loading into the game
+ - Fixed a bug where the player's beard always faces down when starting the game
