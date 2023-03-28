@@ -232,3 +232,7 @@ v0.7.3
  - The cube can be set to a variety of sizes by pressing [U] in the editor
  - Fixed a bug where there was a preloaded level set when loading into the game
  - Fixed a bug where the player's beard always faces down when starting the game
+
+v0.7.4
+ - Added signs which can change text when you hover over them and press M
+ - Added an optional collectible and treasure which do not respawn when reloading the level
