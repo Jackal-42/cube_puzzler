@@ -71,6 +71,7 @@ Guide on using the editor
 |`+` and `-`|Scale the editor GUI|
 |\` + key|Hotswap to tile with pressed ID|
 |`U`|Open a menu to change the cube dimensions|
+|`M`|Change the data of the tile you are over (such as signs. They must be placed already)|
 
 ### In Play Mode (developer mode only)
 
