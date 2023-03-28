@@ -236,3 +236,6 @@ v0.7.3
 v0.7.4
  - Added signs which can change text when you hover over them and press M
  - Added an optional collectible and treasure which do not respawn when reloading the level
+
+v0.7.4 fix 1
+ - Removed the unintentionally included slope tile
