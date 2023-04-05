@@ -251,3 +251,7 @@ v0.7.4.1 fix 1
 
 v0.7.4.1 fix 2
  - Reduced the size of the boxBouncer to reduce unintended collision
+
+v0.7.4.1 fix 3
+ - Loading a playback code with a different scale than the editor's no longer causes unintended scaling
+ - Environment variables no longer persist through reloads
