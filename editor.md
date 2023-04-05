@@ -54,7 +54,7 @@ Detailed info about every tile
 |Tall Candle|1x2|None|Yes|
 |Table|1x1|None|No|
 |Wall Clock|1x1|None|No|
-|Text|N/A|Depending on variant, changes between multiple texts used in the campaign.|No|
+|Sign|1x1|Used to display text|No|
 |Bookcase|1x2|Eyes will blink out of the black space in the top of the bookcase if you are not in the same face as it.|No|
 
 ## Editor Mechanics
@@ -69,7 +69,7 @@ Guide on using the editor
 |`R`|Rotate the selected tile|
 |`F`|Sets view to face `0`|
 |`+` and `-`|Scale the editor GUI|
-|\` + key|Hotswap to tile with pressed ID|
+| `~` + key|Hotswap to tile with pressed ID|
 |`U`|Open a menu to change the cube dimensions|
 |`M`|Change the data of the tile you are over (such as signs. They must be placed already)|
 
