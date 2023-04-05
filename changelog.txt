@@ -255,3 +255,6 @@ v0.7.4.1 fix 2
 v0.7.4.1 fix 3
  - Loading a playback code with a different scale than the editor's no longer causes unintended scaling
  - Environment variables no longer persist through reloads
+
+v0.7.4.1 fix 4
+ - Text no longer disappears when going fullscreen (THIS WAS UNITY'S FAULT NOT MINE)
