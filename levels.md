@@ -37,6 +37,24 @@ robtech21's Puzzle<br>
 <br><br>
 
 ## Full-featured levels
+
+The Pinnacle by Robtech21<br>
+`115|}g5b4ab4ab4ab4ab3ab12ac4ab2a5b4ab4ab4ab4a2b4a5fb3hbn4ab^a4abababagaba3gabagababab#e4ab$4f2b3hb4ab$h4ab^k3an4an4an4ab%3fb2aba$h3a$f3a!s$f4a$fa5b6ah7ab4a5bg/{2ab4ab4ab4ab4ab54ab4ab4ab4ab4ab54ab4ab2a5bab4ab3ag5b4ab12adag4ab4ab4ab4ab4a/{225a/}114ab4a%#b4ab3agb3ab$#e5b#e$#e$h%#ra5b54ag4a^#b4a^#b4a^#b4ag/{185ag5b4ab14a5b10a/}b$#r2a2b%3h2b@3o2b4ab#m8a5b3a@e$a2a$a5a$h6a5b$a5a$ah7ab$k3ab4a5b16ah3a5b15a$e4a5b4ab4ab54ag20a`
+<br><br>
+
+Tutorial by robtech21<br>
+`117|{g2bf4bab@obuhb5ahb5ahb5ahbay;Welcome to the Square Cube Law tutorial!\n\nWalk over the red button to continue.;Byehg9bh3b6af6af6af2ax3afa;Boxes and buttons are a core puzzle mechanic.\n\nYou can move a box by pressing [SPACE] and moving left or right. Boxes can also activate buttons.;Bzaraf13bg2awauab6ab6ag5apga;Excellent!\n\nPortals will teleport you and other objects such as boxes to another portal.;Bv3ag8buaw3ab2a#a3ab6ag5a;Hint: You can drop boxes through grate tiles;$Bgq4aog2a$k3a4b3nb2g#gb4a$#q#a3a$aa$aa$aa4bnba$fbgb$r$ba$@fb2g2ba$fb4g2b2aba#a#uba@ub4a3b6a$a4a$@aa$aa#a2a;Crossing over a checkpoint allows you to go back to that point by pressing [R];$BL$4aa3b3ab3gba$#pa7g35ab13g35a2gb3ab2gb3ab2ab3ab2ab3ab2ab!u2ab2ag3bg7a/{4g3a4g3a4g3ab3g3a$b3g3ab3g3a7g42ag55a6bg2aw3ab6ab5axb6aba;This concludes the tutorial!\n\nWalk into the exit on the right to finish the level.;$Bad@uC7b2g6ag6ag6ag6ag6ag6ag55a14g35ag6ag90a/{441a/{101a2gbg3agb$kb3agbab3agbab3agbab3agbeb3a2g2b101a4g3a4g3a4g3a3gb3a3gb3a3gb3a4g101a4g3a4g35a/{315a17gb5gbcb2g21a3gb5gb^k$b4gbfb4gbfb2g21a28g/{441a`
+<br><br>
+
+Two Ways by robtech21<br>
+`115|{3bga^f2aba^f^kaba5ba$f13ag3bgb^a^@d^a2b^f^#f^fb15a5b3af$aa$f4a$#f4a$#f4a$#fa;Which way will you go?;Ba2b3n^@b%3fb7ac2a!aa^l2a5b3af$a3a!f$a3a!f$a3a!f$a$3n2bgbara2gb$bb2a^3a3a#a6ab3gb5g16a$rabg3b2g^3a3a#a8a/{4ab4ab4a6b2a^f@L^f15a5b5ab4ab4ab4a4bg4ab@a@2o^f2a^k%a2a2o3a^2aa^2a2bn2b15a^2a%f2a^a%fh%f5aba@o2ab4ab2a%aab2a%eabgbeb2gb$e3bgbg2b3a2b3a3bi2b20a4bg20a/{225a/{4ab4ab4ab4abg4b20a11b^#e2a^ab3a^a$ba^aa2b$a^2a2b4ab3a@ob4ab2a@aab26a^f2Db^bo3a^f4a^f4a^f3aDb$n3ba^e2ag4b4ab4ab4aba^f$h^fD2bi2b15aDb$ebg2b^bbgba$a2aba$a2aba^a2a/{20a5b20a5b20a5b75a5b20a5b20a5b20a/{20a5b2a3b2ab4ab4ab^2f3b%2f5b4aba#o2ab^fbNab%f4b51ab4ab4ai4ab4ab3a5b20a5b3a%#a16a2b23a`
+<br><br>
+
+The Orb by robtech21<br>
+`115|{2g3bgb3ab4ab4ab2o13ab^fb2a^fj^f2ab^fba4bg4ab4a$f4a$f4a$fb4ab4abr3a6b14aca;Ponder the orb... and above it?;B2a5b9ab4ab4a2b2f2b4a2b4ab4ab4ab4a5b12aM16ab4ab4ab4ab4ab/{5b20a5b20a5b20a5bab4ab4ab4ab$a2a5b4agM2a@qg4aga3bgb4ab4ab4ab4ab5ab2abab2abab2abab2a#oab3a4bga$@e2ag3a$pg4ag4a2b4ab4ab4ab4ab4a/{46a4g20ag30aba!p2ab#La@oab#L3ag3b5ab4a5b#a4a5b20ag5ba#o#a16a3bg2aMa2b19ag5b/{b2a3b3a@abaM2ab4ag3ba5b@e@ab4ab4ab2a2bg2abg23a2g^#g$ba4b4aha2bab2ababab4ab4ab4ab4ab30abhbfaba#o2ab3a2b#L7ab4ab4ab4ab4ab4ag5b4ab#zN2ab4ab2a#aa/{5b10a3b7a2bg2a!oag2a!o$@qg2a!oag2a2bg32a$3f2b5ao9ab4a3bg4ab4ab4ab31a5b9ag3a2g3aba2b$fbagb^kb2gbfbgb3ab15ag4a2g3a/{b3a!ob3a!oh3a!oh3a!ob3a!o22aL6ab4ab4ab4abE3a2b2ao2b3a2b3a2b3a2b2oabF4bHb3agb3agb3a2b2G6b4ab3a!eb4a5bgb4ab4ab4a5b20a4b4a2b4ab4ab4ab4a4bFb
+`
+<br><br>
+
 The Loop by Jackal42 <b>[UNSTABLE]</b><br>
 `10|[g5b4ab4ab4ab4aba$!pa2b3a2b3a2b3ab5a4bg4ab4ab4ab4a2b5a$#aa!2a@p3a!aa$a3a2b32ab9ap7a4b^@a3ab$aa#aaba$#a#aab4ag4b7a!a12aba^#pab4ab3a$abc3ab4a5bg/{75ag4ag4ag4ag4ag33ag4ag4ag4ag4ag75a/[g5b4ab4ab4ab^e3aba^#qaba^3a16a4bg4ab4ab4ab4a5b6aq9ab19a^a^3f2a^ak^a5ab2a#aa^h2a#o%@a^@h2a#oa^h4a2b3a^@nb2an^@ab2anab2anag2bgb5n^@e^@an8a^3aaba$!qab4nba!a4a!a2a%@q5a2ba2b/{4ab4ab4ab4ab4ab3ab4ab4ab4ab4ab26a5b15a2b6ab4ab4ab4ab4ab5ag4ag4ag4ag4a2gb3agb3a2g3bg4ag7ab4aba3bg36a/{20a5b5g15abg43a3ba%#p2a2g%#gab4ab4ab4ab3a2g73a5g25a/{25a5g120a6ba@da2b3a2b3a2b3ab20a5g25a`
 <br><br>
