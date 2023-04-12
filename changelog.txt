@@ -273,3 +273,7 @@ v0.7.5
  - Added a texture for checkpoints
  - Added particles to portal and hint sign
  - Modified textures of goals and checkpoints in the editor
+
+v0.7.5.1
+ - Fixed a bug where going through portals on certain faces would cause incorrect gravity
+ - Added two functions (displayText() and disable()) to the executable library
