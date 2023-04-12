@@ -90,7 +90,7 @@ Edit the data of an executable tile and insert any number of these functions. Th
 |resetButtonValues()|Sets the button values to what they were at the last checkpoint|
 |zeroButtonValues()|Sets all button values to zero|
 |restart()|Restarts the level|
-|displayText("string")|Forcibly pops up a text box with the entetred text|
+|displayText("string")|Forcibly pops up a text box with the entered text|
 |disable()|Deletes the object (Sign or Executable) that called it|
 
 ### Change Gravity
