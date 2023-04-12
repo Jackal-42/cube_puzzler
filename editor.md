@@ -79,6 +79,17 @@ Guide on using the editor
 |-|-|
 |`C` + 0-9|Warp to specified checkpoint (`0` is the spawn point)|
 |`N`|Toggle noclip|
+|`~` (hold)|Show hidden objects|
+
+### Executables
+Edit the data of an executable tile and insert any number of these functions. They can also be put in between \x tags in the text of a sign.
+
+|Function|Behavior|
+|-|-|
+|resetHintCooldowns()|Cancels any hints which are currently counting down|
+|resetButtonValues()|Sets the button values to what they were at the last checkpoint|
+|zeroButtonValues()|Sets all button values to zero|
+|restart()|Restarts the level|
 
 ### Change Gravity
 
