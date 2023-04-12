@@ -265,3 +265,11 @@ v0.7.4.2
 
 v0.7.4.2 fix 1
  - Chackpoints on face 2 no longer spawn the player upside down
+
+v0.7.5
+ - Added hint signs on a timer
+ - Added the option to execute code when reading signs
+ - Added the invisible executable tile which can execute codes
+ - Added a texture for checkpoints
+ - Added particles to portal and hint sign
+ - Modified textures of goals and checkpoints in the editor
