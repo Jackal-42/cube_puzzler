@@ -277,3 +277,8 @@ v0.7.5
 v0.7.5.1
  - Fixed a bug where going through portals on certain faces would cause incorrect gravity
  - Added two functions (displayText() and disable()) to the executable library
+
+v0.7.5.2
+ - Added textures for collectible and treasure
+ - Fixed a bug that prevented escape codes from working
+ - Removed the need for quotes inside function with a text input
