@@ -282,3 +282,10 @@ v0.7.5.2
  - Added textures for collectible and treasure
  - Fixed a bug that prevented escape codes from working
  - Removed the need for quotes inside function with a text input
+
+v0.7.5.3
+ - Changed the collectible texture to be more discreet
+ - Added arrows on the editor textures for collectibles and treasures
+ - The bob for collectibles and treasures is now rotation dependent
+ - Particle effect on collectible pickup
+ - Increased the button click volume
