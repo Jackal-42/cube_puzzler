@@ -1,4 +1,4 @@
-# Cube Puzzler
+# Square Cube Law
 
 [Play the game here](https://jackal-42.github.io/cube_puzzler/)
 
