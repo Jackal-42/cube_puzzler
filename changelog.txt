@@ -289,3 +289,9 @@ v0.7.5.3
  - The bob for collectibles and treasures is now rotation dependent
  - Particle effect on collectible pickup
  - Increased the button click volume
+
+v0.7.6
+ - Changed the sign to a more visible texture
+ - Increased sign screenshake
+ - Getting checkpoints no longer bugs our spawning when moving to the next level
+ - Added three test levels in play mode
