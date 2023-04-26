@@ -77,6 +77,7 @@ Guide on using the editor
 
 |Key|Use|
 |-|-|
+|`Alt` + `R`|Full reset|
 |`C` + 0-9|Warp to specified checkpoint (`0` is the spawn point)|
 |`N`|Toggle noclip|
 |`~` (hold)|Show hidden objects|
