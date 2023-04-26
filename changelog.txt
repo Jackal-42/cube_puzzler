@@ -295,3 +295,8 @@ v0.7.6
  - Increased sign screenshake
  - Getting checkpoints no longer bugs our spawning when moving to the next level
  - Added three test levels in play mode
+
+v0.7.7
+ - Added titles for all the main story levels
+ - Added a counter for flames
+ - Added a full restart with Alt + R
