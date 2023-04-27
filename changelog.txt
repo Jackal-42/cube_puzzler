@@ -300,3 +300,7 @@ v0.7.7
  - Added titles for all the main story levels
  - Added a counter for flames
  - Added a full restart with Alt + R
+
+v0.7.7.1
+ - Titles no longer appear in the editor
+ - experimental pink beard
