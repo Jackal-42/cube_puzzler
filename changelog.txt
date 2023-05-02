@@ -304,3 +304,11 @@ v0.7.7
 v0.7.7.1
  - Titles no longer appear in the editor
  - experimental pink beard
+
+v0.7.8
+ - Darkened the tip of the beard
+ - Modified the existing levels and added a new one
+ - Fixed a bug regarding springs behaving improperly when reloading from a checkpoint
+ - Removed the jump sound
+ - Fixed a bug where the editor buttons would show up in an incorrect font
+ - Fixed the link to the in-game editor documentation
