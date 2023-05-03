@@ -312,3 +312,9 @@ v0.7.8
  - Removed the jump sound
  - Fixed a bug where the editor buttons would show up in an incorrect font
  - Fixed the link to the in-game editor documentation
+
+v0.7.8.1
+ - Made the level titles disappear faster
+ - Removed a softlock and some misplaced hollow tiles in "The Basement"
+ - Changed the treasure placement in "The Chambers"
+ - Timer is now hidden unless you hold tilde
