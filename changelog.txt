@@ -318,3 +318,6 @@ v0.7.8.1
  - Removed a softlock and some misplaced hollow tiles in "The Basement"
  - Changed the treasure placement in "The Chambers"
  - Timer is now hidden unless you hold tilde
+
+v0.7.8.1 fix 1
+ - Fixed a bug regarding the corruption of "The Basement"
